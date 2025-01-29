@@ -13,3 +13,4 @@ A curated list of Machine learning videos, links, projects, and datasets to help
 This level aims to familiarize you with the ML universe. You will learn a bit about everything.
 
 1. #### Learn Python (Est. time - 2 weeks)
+    1. Basics of Python [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
