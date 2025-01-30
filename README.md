@@ -33,3 +33,16 @@ This level aims to familiarize you with the ML universe. You will learn a bit ab
 |       |                                                              |
 |   5.  | Descriptive Statistics (Est. time 4 Days)                    |
 |   i.  | Statistics Notes                                             | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Descriptive%20Statistics) |
+|       |                                                              |
+|   6.  | Learn Data Analysis Process (Est. time 1 week)               |
+|   i.  | Learn Data Analysis Process                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/6.%20Learn%20Data%20Analysis%20Process) |
+|       |                                                              | 
+|   7.  | Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)     |
+|   i.  | Learn Exploratory Data Analysis (EDA) Notes                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/7.%20Learn%20Exploratory%20Data%20Analysis%20(EDA)) |
+|       |                                                              |
+|   8.  | Learn Machine Learning Basics (Est. time 1 Week)             |
+|   i.  | Learn Machine Learning Basics Notes                          | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/8.%20Learn%20Machine%20Learning%20Basics) |
+
+## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
+
+This level is designed to introduce you to the fundamental concepts and algorithms of machine learning, giving you a broad overview of the field.
