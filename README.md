@@ -46,3 +46,7 @@ This level aims to familiarize you with the ML universe. You will learn a bit ab
 ## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
 
 This level is designed to introduce you to the fundamental concepts and algorithms of machine learning, giving you a broad overview of the field.
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   1.  | Learn about tensors (Est. time - 1 Day)                      |
+|   i.  | 1. What are Tensors?                                         | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/1.%20Learn%20about%20tensors) |
