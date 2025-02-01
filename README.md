@@ -34,7 +34,7 @@ This level aims to familiarize you with the ML universe. You will learn a bit ab
 |   5.  | Descriptive Statistics (Est. time 4 Days)                    |
 |   i.  | Statistics Notes                                             | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Descriptive%20Statistics) |
 |       |                                                              |
-|   6.  | Learn Data Analysis Process (Est. time 1 week)              _|
+|   6.  | Learn Data Analysis Process (Est. time 1 week)               |
 |   i.  | Learn Data Analysis Process                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/6.%20Learn%20Data%20Analysis%20Process) |
 |       |                                                              | 
 |   7.  | Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)     |
@@ -52,4 +52,4 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   i.  | 1. What are Tensors?                                         | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/1.%20Learn%20about%20tensors) |
 |       |                                                              |
 |   2.  | Advance Statistics                                           |
-|   i.  | Advance Statistics Notes                                     | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) |
+|   i.  | Advance Statistics Notes                                    _| [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) |
