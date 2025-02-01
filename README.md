@@ -50,3 +50,6 @@ This level is designed to introduce you to the fundamental concepts and algorith
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |   1.  | Learn about tensors (Est. time - 1 Day)                      |
 |   i.  | 1. What are Tensors?                                         | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/1.%20Learn%20about%20tensors) |
+|       |                                                              |
+|   2.  | Advance Statistics                                           |
+|   i.  | Advance Statistics Notes                                     | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) |
