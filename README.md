@@ -34,7 +34,7 @@ This level aims to familiarize you with the ML universe. You will learn a bit ab
 |   5.  | Descriptive Statistics (Est. time 4 Days)                    |
 |   i.  | Statistics Notes                                             | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Descriptive%20Statistics) |
 |       |                                                              |
-|   6.  | Learn Data Analysis Process (Est. time 1 week)               |
+|   6.  | Learn Data Analysis Process (Est. time 1 week)              _|
 |   i.  | Learn Data Analysis Process                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/6.%20Learn%20Data%20Analysis%20Process) |
 |       |                                                              | 
 |   7.  | Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)     |
