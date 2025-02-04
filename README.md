@@ -54,5 +54,8 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   2.  | Advance Statistics                                           |
 |   i.  | Advance Statistics Notes                                     | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) |
 |       |                                                              |
-|   3.  | Linear Algebra Basics                                        |
-|   i.  | Linear Algebra Basics Notes                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Probability%20Basics) |
+|   3.  | Probability Basics                                           |
+|   i.  | Probability Basics Notes                                     | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Probability%20Basics) |
+|       |                                                              |
+|   4.  | Linear Algebra Basics                                        |
+|   i.  | Linear Algebra Basics Notes                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Linear%20Algebra%20Basics) |
