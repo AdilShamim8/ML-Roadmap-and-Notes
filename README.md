@@ -46,6 +46,9 @@ This level aims to familiarize you with the ML universe. You will learn a bit ab
 ## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
 
 This level is designed to introduce you to the fundamental concepts and algorithms of machine learning, giving you a broad overview of the field.
+
+## Roadmap | mathematics for machine learning  | [Link](https://docs.google.com/spreadsheets/d/10spJMs0Zmv5cugfFjJVc4MudyOVjl_16Ef5z54oxqnM/edit?gid=0#gid=0)
+## Book    | mathematics for machine learning  | [Link](https://github.com/mml-book/mml-book.github.io)
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |   1.  | Learn about tensors (Est. time - 1 Day)                      |
@@ -59,3 +62,6 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |       |                                                              |
 |   4.  | Linear Algebra Basics                                        |
 |   i.  | Linear Algebra Basics Notes                                  | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Linear%20Algebra%20Basics) |
+|       |                                                              |
+|   4.  | Basics of Calculus                                           |
+|   i.  | Basics of Calculus Notes                                     | [👆](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Basics%20of%20Calculus) |
