@@ -67,4 +67,5 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   i.  | Basics of Calculus Notes                                     | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Basics%20of%20Calculus) |
 |       |                                                              |
 |   6.  | Machine Learning Algorithms                                  |
-|   i.  | Linear Regression Notes                                      | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression) |
+|   i.  | Linear Regression Notes                                      | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Linear%20Regression) |
+|   ii. | Gradient Descent Notes                                       | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/%20Gradient%20Descent) |
