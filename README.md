@@ -67,7 +67,7 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   i.  | Basics of Calculus Notes                                     | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Basics%20of%20Calculus) |
 |       |                                                              |
 |   6.  | Machine Learning Algorithms                                  |
-|   i.  | Linear Regression Notes                                      | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Linear%20Regression) |
+|    i. | Linear Regression Notes                                      | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Linear%20Regression) |
 |   ii. | Gradient Descent Notes                                       | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/%20Gradient%20Descent) |
 |   iii.| Logistic Regression Notes                                    | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Logistic%20Regression) |
 |   iv. | Support Vector Machines Notes                                | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Support%20Vector%20Machines) |
@@ -76,3 +76,5 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |  vii. | Decision Trees Notes                                         | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Decision%20Tree) |
 |  viii.| Random Forest Notes                                          | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Random%20Forest) |
 |   ix. | Bagging Notes                                                | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Bagging) |
+|   x.  | Adaboost Notes                                               | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/AdaBoost) |
+
