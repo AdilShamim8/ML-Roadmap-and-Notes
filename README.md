@@ -78,4 +78,5 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   ix. | Bagging Notes                                                | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Bagging) |
 |   x.  | Adaboost Notes                                               | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/AdaBoost) |
 |   xi. | Gradient Boosting Notes                                      | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Gradient%20Boosting) |
+|   xii.| Xgboost Notes                                                | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/XGBoost) |
 
