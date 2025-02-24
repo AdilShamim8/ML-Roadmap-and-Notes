@@ -84,3 +84,5 @@ This level is designed to introduce you to the fundamental concepts and algorith
 |   XV. | Hierarchical Clustering Clustering  Notes                    | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Hierarchical%20Clustering) |
 |  XVi. | DBSCAN  Notes                                                | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/DBSCAN%20Clustering) |
 
+### Machine Learning Metrics  |[Link]() 
+
