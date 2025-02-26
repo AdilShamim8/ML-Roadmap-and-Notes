@@ -85,6 +85,6 @@ The goal of this level is to get you introduced to the practical side of machine
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|   1.  | Data Acquisition                                             |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/1.%20Data%20Acquisition)
+|   1.  | Data Acquisition                                             |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/1.%20Data%20Acquisition/Data%20Acquistion/Data%20Acquisition.ipynb)
 
 
