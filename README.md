@@ -79,9 +79,12 @@ This level is designed to introduce you to the fundamental concepts and algorith
 ### Machine Learning Metrics  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/7.%20Machine%20Learning%20Metrics) 
 ### Regularization  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/9.%20Regularization)
 
-## 3. Learn Practical Concepts (Est. time 6-8 Weeks)
+## 3. Learn Practical Concepts
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
 
-1. #### Data Acquisition (Est. time - 2 Days)
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   1.  | Data Acquisition                                             |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/1.%20Data%20Acquisition)
+
 
