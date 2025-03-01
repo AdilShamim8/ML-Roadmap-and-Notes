@@ -81,7 +81,7 @@ This level is designed to introduce you to the fundamental concepts and algorith
 
 ## 3. Learn Practical Concepts
 
-The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
+This level aims to introduce you to the practical side of machine learning. What you learn at this level would help you out there in the wild.
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -90,6 +90,7 @@ The goal of this level is to get you introduced to the practical side of machine
 |   2.  | Working with missing values                                  |
 |   i.  | Complete Case Analysis                   | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/1.%20Complete%20Case%20Analysis) |
 |   ii. | Handling missing numerical data|[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/2.%20Handling%20missing%20numerical%20data) |
+|   iii.| Handling missing categorical data|                           [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/3.%20Handling%20missing%20categorical%20data) |
 
 
 
