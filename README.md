@@ -95,6 +95,8 @@ This level aims to introduce you to the practical side of machine learning. What
 |   v.  | KNN Imputer                                                  |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/5.%20KNN%20Imputer) |
 |   vi. | MICE                                                         |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/6.%20MICE) |
 |   vii.| Kaggle Notebooks and Practice Datasets                       |[Link](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
+|       |                                                              |
+|   3.  | Feature Scaling/Normalization                                 |[Link]([https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/3.%20Feature%20Scaling%20and%20Normalization/Feature%20Scaling%20and%20Normalization))
 
 
 
