@@ -97,6 +97,8 @@ This level aims to introduce you to the practical side of machine learning. What
 |   vii.| Kaggle Notebooks and Practice Datasets                       |[Link](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
 |       |                                                              |
 |   3.  | Feature Scaling/Normalization                                |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/3.%20Feature%20Scaling%20and%20Normalization)
+|       |                                                              |
+|   4.  | Feature Encoding Techniques                                  |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/4.%20Feature%20Encoding%20Techniques)
 
 
 
