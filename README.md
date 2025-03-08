@@ -99,6 +99,8 @@ This level aims to introduce you to the practical side of machine learning. What
 |   3.  | Feature Scaling/Normalization                                |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/3.%20Feature%20Scaling%20and%20Normalization)
 |       |                                                              |
 |   4.  | Feature Encoding Techniques                                  |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/4.%20Feature%20Encoding%20Techniques)
+|       |                                                              |
+|   5.  | Function Transformer                                         |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/1.%20FunctionTransformer)
 
 
 
