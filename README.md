@@ -104,6 +104,9 @@ This level aims to introduce you to the practical side of machine learning. What
 |   i.  | Function Transformer                                         |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/1.%20FunctionTransformer)
 |   ii. | Power Transformations                                        |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/2.%20Power%20Transformations)
 |   iii.| Binning and Binarization                                 |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/3.%20Binning%20and%20Binarization)
+|       |                                                              |
+|   6.  | Working with Pipelines                                       |
+|   i.  |  Column Transformer                                          |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/6.%20Working%20with%20Pipelines/1.%20Column%20Transformer)
 
 
 
