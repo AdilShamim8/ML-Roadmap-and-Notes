@@ -107,6 +107,7 @@ This level aims to introduce you to the practical side of machine learning. What
 |       |                                                              |
 |   6.  | Working with Pipelines                                       |
 |   i.  |  Column Transformer                                          |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/6.%20Working%20with%20Pipelines/1.%20Column%20Transformer)
+|   ii. |  Sklearn Pipelines                                           |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/6.%20Working%20with%20Pipelines/2.%20Sklearn%20Pipelines)
 
 
 
