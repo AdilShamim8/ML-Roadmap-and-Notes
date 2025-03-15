@@ -112,6 +112,9 @@ This level aims to introduce you to the practical side of machine learning. What
 |   7.  | Handing Time and Date data                                 |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/7.%20Handing%20Time%20and%20Date%20data/1.%20Working%20with%20time%20and%20date%20data)
 |       |                                                              |
 |   8.  | Working with Outliers                                        |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/8.%20Working%20with%20Outliers/Working%20with%20Outliers)
+|       |                                                              |
+|   9.  | Feature Construction                                         |[Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/9.%20Feature%20Construction/1.%20Feature%20Construction)
+
 
 
 
