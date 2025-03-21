@@ -98,13 +98,13 @@ This level aims to introduce you to the practical side of machine learning. What
 7. Kaggle Notebooks and Practice Datasets - [Link](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
    
 ### Feature Scaling/Normalization 
-1. Standardization / Normalization - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/3.%20Feature%20Scaling%20and%20Normalization)
+1. Standardization / Normalization - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/3.%20Feature%20Scaling%20and%20Normalization)
 ### Feature Encoding Techniques
-1. Feature Encoding Techniques - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/4.%20Feature%20Encoding%20Techniques)
+1. Feature Encoding Techniques - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/4.%20Feature%20Encoding%20Techniques)
 ### Feature Transformation
-1. Function Transformer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/1.%20FunctionTransformer)
-2. Power Transformations - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/2.%20Power%20Transformations)
-3. Binning and Binarization - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/5.%20Feature%20Transformation/1.%20FunctionTransformer/3.%20Binning%20and%20Binarization)
+1. Function Transformer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/5.%20Feature%20Transformation/1.%20FunctionTransformer)
+2. Power Transformations - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/5.%20Feature%20Transformation/2.%20Power%20Transformations)
+3. Binning and Binarization - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/5.%20Feature%20Transformation/3.%20Binning%20and%20Binarization)
 ### Working with Pipelines
 1. Column Transformer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/6.%20Working%20with%20Pipelines/1.%20Column%20Transformer)
 2. Sklearn Pipelines - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/6.%20Working%20with%20Pipelines/2.%20Sklearn%20Pipelines)
