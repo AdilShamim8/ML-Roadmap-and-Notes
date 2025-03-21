@@ -86,15 +86,15 @@ The goal of this level is to learn the core machine learning concepts and algori
 This level aims to introduce you to the practical side of machine learning. What you learn at this level will help you out there in the wild.
 
 ### Data Acquisition 
-1. Data Acquisition  - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/1.%20Data%20Acquisition/Data%20Acquistion)
+1. Data Acquisition  - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion)
 
 ### Working with missing values 
-1. Complete Case Analysis - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/1.%20Complete%20Case%20Analysis) 
-2. Handling missing numerical data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/2.%20Handling%20missing%20numerical%20data)
-3. Handling missing categorical data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/3.%20Handling%20missing%20categorical%20data)
-4. Missing indicator - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/4.%20Missing%20indicator)
-5. KNN Imputer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/5.%20KNN%20Imputer) 
-6. MICE - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion/2.%20Working%20with%20missing%20values/6.%20MICE)
+1. Complete Case Analysis - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/1.%20Complete%20Case%20Analysis) 
+2. Handling missing numerical data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/2.%20Handling%20missing%20numerical%20data)
+3. Handling missing categorical data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/3.%20Handling%20missing%20categorical%20data)
+4. Missing indicator - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/4.%20Missing%20indicator)
+5. KNN Imputer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/5.%20KNN%20Imputer) 
+6. MICE - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/6.%20MICE)
 7. Kaggle Notebooks and Practice Datasets - [Link](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
    
 ### Feature Scaling/Normalization 
