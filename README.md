@@ -78,8 +78,8 @@ The goal of this level is to learn the core machine learning concepts and algori
 15. Hierarchical Clustering - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/Hierarchical%20Clustering) 
 16. DBSCAN - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression/DBSCAN%20Clustering)
 
-#### Machine Learning Metrics  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/7.%20Machine%20Learning%20Metrics) 
-#### Regularization  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/9.%20Regularization)
+### Machine Learning Metrics  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/7.%20Machine%20Learning%20Metrics) 
+### Regularization  | [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/9.%20Regularization)
 
 ## 3. Learn Practical Concepts
 
