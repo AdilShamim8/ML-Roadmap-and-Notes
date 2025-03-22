@@ -125,3 +125,6 @@ This level aims to introduce you to the practical side of machine learning. What
 2. Blending - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/12.%20Modelling%20-%20Stacking%20and%20Blending/Blending)
 3. LightGBM - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/12.%20Modelling%20-%20Stacking%20and%20Blending/LightGBM)
 4. CatBoost - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/12.%20Modelling%20-%20Stacking%20and%20Blending/CatBoost)
+
+### Model Tuning
+1. GridSearchCV - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/GridSearchCV)
