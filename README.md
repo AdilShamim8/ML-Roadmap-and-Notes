@@ -128,3 +128,4 @@ This level aims to introduce you to the practical side of machine learning. What
 
 ### Model Tuning
 1. GridSearchCV - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/GridSearchCV)
+2. RandomSearchCV - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/RandomSearchCV)
