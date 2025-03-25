@@ -130,3 +130,6 @@ This level aims to introduce you to the practical side of machine learning. What
 1. GridSearchCV - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/GridSearchCV)
 2. RandomSearchCV - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/RandomSearchCV)
 3. Hyperparameter Tuning - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/Hyperparameter%20Tuning)
+
+### Working with imbalanced data 
+1. How to handle imbalanced data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/14.%20Working%20with%20imbalanced%20data/Handling%20imbalanced%20dataset)
