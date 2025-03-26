@@ -133,3 +133,6 @@ This level aims to introduce you to the practical side of machine learning. What
 
 ### Working with imbalanced data 
 1. How to handle imbalanced data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/14.%20Working%20with%20imbalanced%20data/Handling%20imbalanced%20dataset)
+
+### Handling Multicollinearity
+1. Handling Multicollinearity - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/15.%20Handling%20Multicollinearity/Handling%20Multicollinearity)
