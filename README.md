@@ -136,3 +136,7 @@ This level aims to introduce you to the practical side of machine learning. What
 
 ### Handling Multicollinearity
 1. Handling Multicollinearity - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/15.%20Handling%20Multicollinearity/Handling%20Multicollinearity)
+
+### Data Leakage
+1. Data Leakage - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/16.%20Data%20Leakage/Data%20Leakage)
+
