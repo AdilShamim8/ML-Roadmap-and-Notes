@@ -143,4 +143,5 @@ This level aims to introduce you to the practical side of machine learning. What
 ### Serving your model
 1. Pickling your model - (Coming Soon)
 2. Flask - (Coming Soon)
+3. Streamlit - (Coming Soon)
 
