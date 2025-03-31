@@ -144,4 +144,5 @@ This level aims to introduce you to the practical side of machine learning. What
 1. Pickling your model - (Coming Soon)
 2. Flask - (Coming Soon)
 3. Streamlit - (Coming Soon)
+4. Deploy model on Heroku  - (Coming Soon)
 
