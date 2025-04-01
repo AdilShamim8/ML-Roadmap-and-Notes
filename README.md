@@ -108,7 +108,7 @@ This level aims to introduce you to the practical side of machine learning. What
 ### Working with Pipelines
 1. Column Transformer - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/6.%20Working%20with%20Pipelines/1.%20Column%20Transformer)
 2. Sklearn Pipelines - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/6.%20Working%20with%20Pipelines/2.%20Sklearn%20Pipelines)
-### Handing Time and Date data
+### Handing Time and Date
 1. Working with time and date data - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/7.%20Handing%20Time%20and%20Date%20data/1.%20Working%20with%20time%20and%20date%20data)
 ### Working with Outliers
 1. Working with Outliers - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/8.%20Working%20with%20Outliers/Working%20with%20Outliers)
@@ -143,6 +143,7 @@ This level aims to introduce you to the practical side of machine learning. What
 ### Serving your model
 1. Pickling your model - (Coming Soon)
 2. Flask - (Coming Soon)
-3. Streamlit - (Coming Soon)
+3. Streamlit -(Coming Soon)
 4. Deploy model on Heroku  - (Coming Soon)
+5. Deploy model on AWS  - (Coming Soon
 
