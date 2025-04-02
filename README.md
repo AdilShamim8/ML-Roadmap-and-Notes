@@ -146,4 +146,7 @@ This level aims to introduce you to the practical side of machine learning. What
 3. Streamlit -(Coming Soon)
 4. Deploy model on Heroku  - (Coming Soon)
 5. Deploy model on AWS  - (Coming Soon
+6. Deploy model to GCP  - (Coming Soon
+7. Deploy model to Azure  - (Coming Soon
+8. ML model to Android App  - (Coming Soon
 
