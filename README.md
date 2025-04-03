@@ -150,3 +150,6 @@ This level aims to introduce you to the practical side of machine learning. What
 7. Deploy model to Azure  - (Coming Soon
 8. ML model to Android App  - (Coming Soon
 
+### Working with Large Datasets 
+1. Working with Large Datasets - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/18.%20Working%20with%20Large%20Datasets/Working%20with%20Large%20Datasets)
+
