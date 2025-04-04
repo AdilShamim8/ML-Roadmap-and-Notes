@@ -153,3 +153,8 @@ This level aims to introduce you to the practical side of machine learning. What
 ### Working with Large Datasets 
 1. Working with Large Datasets - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/18.%20Working%20with%20Large%20Datasets/Working%20with%20Large%20Datasets)
 
+## 4. Diving into different domains 
+This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist. 
+### SQL  
+1. SQL learning resources -  [Link](https://docs.google.com/document/d/1wCALgWubTOvuvlXJ3Eweh7AgJj4sPq2pW92y3viPZbs/edit?tab=t.0#heading=h.e469kzlgl447)
+
