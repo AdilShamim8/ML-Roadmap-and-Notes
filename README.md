@@ -159,5 +159,6 @@ This is the level where you would dive into different domains of Machine Learnin
 1. SQL learning resources -  [Link](https://docs.google.com/document/d/1wCALgWubTOvuvlXJ3Eweh7AgJj4sPq2pW92y3viPZbs/edit?tab=t.0#heading=h.e469kzlgl447)
 
 ### Recommendation Systems 
-1. Movie Recommendation System - [Link](https://github.com/AdilShamim8/Movie-Recommender-System)
+1. Movie Recommendation System - [View Project](https://github.com/AdilShamim8/Movie-Recommender-System)
+2. Book Recommender System - [View Project](https://github.com/AdilShamim8/Book-Recommender-System)
 
