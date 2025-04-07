@@ -145,10 +145,10 @@ This level aims to introduce you to the practical side of machine learning. What
 2. Flask - (Coming Soon)
 3. Streamlit -(Coming Soon)
 4. Deploy model on Heroku  - (Coming Soon)
-5. Deploy model on AWS  - (Coming Soon
-6. Deploy model to GCP  - (Coming Soon
-7. Deploy model to Azure  - (Coming Soon
-8. ML model to Android App  - (Coming Soon
+5. Deploy model on AWS  - (Coming Soon)
+6. Deploy model to GCP  - (Coming Soon)
+7. Deploy model to Azure  - (Coming Soon)
+8. ML model to Android App  - (Coming Soon)
 
 ### Working with Large Datasets 
 1. Working with Large Datasets - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/18.%20Working%20with%20Large%20Datasets/Working%20with%20Large%20Datasets)
@@ -161,4 +161,9 @@ This is the level where you would dive into different domains of Machine Learnin
 ### Recommendation Systems 
 1. Movie Recommendation System - [View Project](https://github.com/AdilShamim8/Movie-Recommender-System)
 2. Book Recommender System - [View Project](https://github.com/AdilShamim8/Book-Recommender-System)
+
+### Association Rule Learning
+1. Association Rule Mining(Apriori Algorithm) - (Coming Soon)
+2. Eclat Algorithm - (Coming Soon)
+3. Market Basket Analysis - (Coming Soon)
 
