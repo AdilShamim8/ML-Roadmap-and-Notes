@@ -167,3 +167,7 @@ This is the level where you would dive into different domains of Machine Learnin
 2. Eclat Algorithm - (Coming Soon)
 3. Market Basket Analysis - (Coming Soon)
 
+### Anomaly Detection
+ 1. Anamoly Detection Lecture from Microsoft Research - (Coming Soon)
+ 2. Novelty Detection Lecture - (Coming Soon)
+
