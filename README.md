@@ -171,3 +171,8 @@ This is the level where you would dive into different domains of Machine Learnin
  1. Anamoly Detection Lecture from Microsoft Research - (Coming Soon)
  2. Novelty Detection Lecture - (Coming Soon)
 
+### NLP 
+1. NLP-Introduction - [Notebook](https://www.kaggle.com/code/adilshamim8/nlp-introduction)
+2. NLP NOTES - (Coming Soon)
+3. Email Spam Classifier Project - [View Project](https://github.com/AdilShamim8/Email-Spam-Classifier)
+
