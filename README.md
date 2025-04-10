@@ -176,3 +176,7 @@ This is the level where you would dive into different domains of Machine Learnin
 2. NLP NOTES - (Coming Soon)
 3. Email Spam Classifier Project - [View Project](https://github.com/AdilShamim8/Email-Spam-Classifier)
 
+### Time Series - (Coming Soon) 
+### Computer Vision - (Coming Soon)
+### Fundamentals of Neural Network - (Coming Soon) 
+
