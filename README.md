@@ -180,3 +180,8 @@ This is the level where you would dive into different domains of Machine Learnin
 ### Computer Vision - (Coming Soon)
 ### Fundamentals of Neural Network - (Coming Soon) 
 
+### Pushing it with Projects
+The objective of this level is to sharpen the knowledge that you have accumulated in the previous 4 levels 
+### 100 AI Machine Learning Deep Learning Projects - [View Project](https://github.com/AdilShamim8/100-AI-Machine-Learning-Deep-Learnin-Projects)
+### 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 - [View Project](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
