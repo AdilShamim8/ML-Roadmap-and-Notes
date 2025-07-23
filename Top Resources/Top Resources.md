@@ -1,7 +1,7 @@
 # Top Resources to Learn Machine Learning in 2025
 ### A Comprehensive Guide for Beginners and Advanced Learners  
 **Compiled by Adil Shamim | July 2025**  
-🔗 [https://adilshamim.me/](https://adilshamim.me/)
+ [Adil Shamim](https://adilshamim.me/)
 
 ---
 
