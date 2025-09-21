@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Roadmap and Notes
+# Machine Learning Roadmap and Notes
 
 ![GitHub stars](https://img.shields.io/github/stars/AdilShamim8/ML-Roadmap-and-Notes?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -14,7 +14,7 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Learning Journey Overview](#learning-journey-overview)
 - [Level 1: Testing the waters](#1-testing-the-waters)
@@ -41,7 +41,7 @@ This roadmap is organized into five progressive levels:
 
 > This level aims to familiarize you with the ML universe. You will learn a bit about everything.
 
-### 🐍 Learn Python  
+### Learn Python  
 
 <details>
 <summary>Click to expand Python resources</summary>
@@ -52,7 +52,7 @@ This roadmap is organized into five progressive levels:
 4. **Practice Problems** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/Exercise.ipynb)  
 </details>
 
-### 🔢 Learn Numpy 
+### Learn Numpy 
 
 <details>
 <summary>Click to expand NumPy resources</summary>
@@ -61,7 +61,7 @@ This roadmap is organized into five progressive levels:
 2. **Numpy Practice Problems** - [View Exercises](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/1.%20Testing%20the%20waters/2.%20Learn%20Numpy/100_Numpy_exercises.ipynb) 
 </details>
 
-### 📊 Learn Pandas 
+### Learn Pandas 
 
 <details>
 <summary>Click to expand Pandas resources</summary>
@@ -70,7 +70,7 @@ This roadmap is organized into five progressive levels:
 2. **Pandas Problems** - [View Exercises](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/1.%20Testing%20the%20waters/3.%20Learn%20Pandas/100-pandas-puzzles.ipynb) 
 </details>
 
-### 📈 Learn Data Visualization 
+### Learn Data Visualization 
 
 <details>
 <summary>Click to expand Data Visualization resources</summary>
@@ -79,7 +79,7 @@ This roadmap is organized into five progressive levels:
 2. **Seaborn** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/4.%20Learn%20Data%20Visualization/Seaborn)
 </details>
 
-### 📏 Descriptive Statistics 
+###  Descriptive Statistics 
 
 <details>
 <summary>Click to expand Statistics resources</summary>
@@ -87,7 +87,7 @@ This roadmap is organized into five progressive levels:
 1. **Statistics** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Descriptive%20Statistics)
 </details>
 
-### 🔍 Learn Data Analysis Process 
+### Learn Data Analysis Process 
 
 <details>
 <summary>Click to expand Data Analysis Process resources</summary>
@@ -95,7 +95,7 @@ This roadmap is organized into five progressive levels:
 1. **Learn Data Analysis Process** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/6.%20Learn%20Data%20Analysis%20Process)
 </details>
 
-### 🔎 Learn Exploratory Data Analysis (EDA) 
+### Learn Exploratory Data Analysis (EDA) 
 
 <details>
 <summary>Click to expand EDA resources</summary>
@@ -103,7 +103,7 @@ This roadmap is organized into five progressive levels:
 1. **Learn Exploratory Data Analysis (EDA) Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/7.%20Learn%20Exploratory%20Data%20Analysis%20(EDA)) 
 </details>
 
-### 🤖 Learn Machine Learning Basics 
+### Learn Machine Learning Basics 
 
 <details>
 <summary>Click to expand ML Basics resources</summary>
@@ -117,7 +117,7 @@ This roadmap is organized into five progressive levels:
 
 > The goal of this level is to learn the core machine learning concepts and algorithms
 
-### 📚 Mathematics for Machine Learning
+### Mathematics for Machine Learning
 
 <details>
 <summary>Click to expand Mathematics resources</summary>
@@ -126,7 +126,7 @@ This roadmap is organized into five progressive levels:
 - **Book**: [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io)
 </details>
 
-### 📦 Learn about tensors 
+### Learn about tensors 
 
 <details>
 <summary>Click to expand Tensor resources</summary>
@@ -134,7 +134,7 @@ This roadmap is organized into five progressive levels:
 1. **What are Tensors?** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/1.%20Learn%20about%20tensors) 
 </details>
 
-### 📊 Advanced Statistics
+### Advanced Statistics
 
 <details>
 <summary>Click to expand Advanced Statistics resources</summary>
@@ -142,7 +142,7 @@ This roadmap is organized into five progressive levels:
 1. **Advance Statistics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) 
 </details>
 
-### 🎲 Probability Basics
+### Probability Basics
 
 <details>
 <summary>Click to expand Probability resources</summary>
@@ -150,7 +150,7 @@ This roadmap is organized into five progressive levels:
 1. **Probability Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Probability%20Basics)
 </details>
 
-### 📐 Linear Algebra Basics
+### Linear Algebra Basics
 
 <details>
 <summary>Click to expand Linear Algebra resources</summary>
@@ -158,7 +158,7 @@ This roadmap is organized into five progressive levels:
 1. **Linear Algebra Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Linear%20Algebra%20Basics)
 </details>
 
-### 📉 Basics of Calculus
+### Basics of Calculus
 
 <details>
 <summary>Click to expand Calculus resources</summary>
@@ -166,7 +166,7 @@ This roadmap is organized into five progressive levels:
 1. **Basics of Calculus Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Basics%20of%20Calculus)
 </details>
 
-### ⚙️ Machine Learning Algorithms
+### Machine Learning Algorithms
 
 <details>
 <summary>Click to expand ML Algorithms resources</summary>
@@ -191,7 +191,7 @@ This roadmap is organized into five progressive levels:
 | DBSCAN | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/DBSCAN%20Clustering) |
 </details>
 
-### 📏 Machine Learning Metrics  
+### Machine Learning Metrics  
 
 <details>
 <summary>Click to expand ML Metrics resources</summary>
@@ -199,7 +199,7 @@ This roadmap is organized into five progressive levels:
 - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/7.%20Machine%20Learning%20Metrics) 
 </details>
 
-### 🔧 Regularization  
+### Regularization  
 
 <details>
 <summary>Click to expand Regularization resources</summary>
@@ -213,7 +213,7 @@ This roadmap is organized into five progressive levels:
 
 > This level aims to introduce you to the practical side of machine learning. What you learn at this level will help you out there in the wild.
 
-### 📥 Data Acquisition 
+### Data Acquisition 
 
 <details>
 <summary>Click to expand Data Acquisition resources</summary>
@@ -221,7 +221,7 @@ This roadmap is organized into five progressive levels:
 1. **Data Acquisition** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion)
 </details>
 
-### ❓ Working with missing values 
+### Working with missing values 
 
 <details>
 <summary>Click to expand Missing Values resources</summary>
@@ -235,10 +235,10 @@ This roadmap is organized into five progressive levels:
 | KNN Imputer | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/5.%20KNN%20Imputer) |
 | MICE | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/6.%20MICE) |
 
-📚 **Practice Resources**: [Kaggle Notebooks and Practice Datasets](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
+**Practice Resources**: [Kaggle Notebooks and Practice Datasets](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
 </details>
 
-### 📊 Feature Scaling/Normalization 
+### Feature Scaling/Normalization 
 
 <details>
 <summary>Click to expand Feature Scaling resources</summary>
@@ -246,7 +246,7 @@ This roadmap is organized into five progressive levels:
 1. **Standardization / Normalization** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/3.%20Feature%20Scaling%20and%20Normalization)
 </details>
 
-### 🔄 Feature Encoding Techniques
+### Feature Encoding Techniques
 
 <details>
 <summary>Click to expand Feature Encoding resources</summary>
@@ -254,7 +254,7 @@ This roadmap is organized into five progressive levels:
 1. **Feature Encoding Techniques** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/4.%20Feature%20Encoding%20Techniques)
 </details>
 
-### 🔄 Feature Transformation
+### Feature Transformation
 
 <details>
 <summary>Click to expand Feature Transformation resources</summary>
@@ -264,7 +264,7 @@ This roadmap is organized into five progressive levels:
 3. **Binning and Binarization** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/5.%20Feature%20Transformation/3.%20Binning%20and%20Binarization)
 </details>
 
-### 🔄 Working with Pipelines
+### Working with Pipelines
 
 <details>
 <summary>Click to expand Pipelines resources</summary>
@@ -273,7 +273,7 @@ This roadmap is organized into five progressive levels:
 2. **Sklearn Pipelines** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/6.%20Working%20with%20Pipelines/2.%20Sklearn%20Pipelines)
 </details>
 
-### 🕒 Handing Time and Date
+### Handing Time and Date
 
 <details>
 <summary>Click to expand Time and Date resources</summary>
@@ -281,7 +281,7 @@ This roadmap is organized into five progressive levels:
 1. **Working with time and date data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/7.%20Handing%20Time%20and%20Date%20data/1.%20Working%20with%20time%20and%20date%20data)
 </details>
 
-### ⚠️ Working with Outliers
+### Working with Outliers
 
 <details>
 <summary>Click to expand Outliers resources</summary>
@@ -289,7 +289,7 @@ This roadmap is organized into five progressive levels:
 1. **Working with Outliers** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/8.%20Working%20with%20Outliers/Working%20with%20Outliers)
 </details>
 
-### 🔨 Feature Construction 
+### Feature Construction 
 
 <details>
 <summary>Click to expand Feature Construction resources</summary>
@@ -297,7 +297,7 @@ This roadmap is organized into five progressive levels:
 1. **Feature Construction** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/9.%20Feature%20Construction/1.%20Feature%20Construction)
 </details>
 
-### 🔍 Feature Selection 
+### Feature Selection 
 
 <details>
 <summary>Click to expand Feature Selection resources</summary>
@@ -305,7 +305,7 @@ This roadmap is organized into five progressive levels:
 1. **Feature selection** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/10.%20Feature%20Selection/Feature%20Selection)
 </details>
 
-### ✅ Cross Validation 
+### Cross Validation 
 
 <details>
 <summary>Click to expand Cross Validation resources</summary>
@@ -313,7 +313,7 @@ This roadmap is organized into five progressive levels:
 1. **Cross-validation** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/11.%20Cross%20Validation/Cross%20Validation)
 </details>
 
-### 🔄 Modelling - Stacking and Blending 
+### Modelling - Stacking and Blending 
 
 <details>
 <summary>Click to expand Modelling resources</summary>
@@ -324,7 +324,7 @@ This roadmap is organized into five progressive levels:
 4. **CatBoost** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/12.%20Modelling%20-%20Stacking%20and%20Blending/CatBoost)
 </details>
 
-### 🔧 Model Tuning
+### Model Tuning
 
 <details>
 <summary>Click to expand Model Tuning resources</summary>
@@ -334,7 +334,7 @@ This roadmap is organized into five progressive levels:
 3. **Hyperparameter Tuning** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/Hyperparameter%20Tuning)
 </details>
 
-### ⚖️ Working with imbalanced data 
+### Working with imbalanced data 
 
 <details>
 <summary>Click to expand Imbalanced Data resources</summary>
@@ -342,7 +342,7 @@ This roadmap is organized into five progressive levels:
 1. **How to handle imbalanced data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/14.%20Working%20with%20imbalanced%20data/Handling%20imbalanced%20dataset)
 </details>
 
-### 🔄 Handling Multicollinearity
+### Handling Multicollinearity
 
 <details>
 <summary>Click to expand Multicollinearity resources</summary>
@@ -350,7 +350,7 @@ This roadmap is organized into five progressive levels:
 1. **Handling Multicollinearity** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/15.%20Handling%20Multicollinearity/Handling%20Multicollinearity)
 </details>
 
-### 🚨 Data Leakage
+### Data Leakage
 
 <details>
 <summary>Click to expand Data Leakage resources</summary>
@@ -358,7 +358,7 @@ This roadmap is organized into five progressive levels:
 1. **Data Leakage** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/16.%20Data%20Leakage/Data%20Leakage)
 </details>
 
-### 🚀 Serving your model
+### Serving your model
 
 <details>
 <summary>Click to expand Model Serving resources</summary>
@@ -374,7 +374,7 @@ This roadmap is organized into five progressive levels:
 > - ML model to Android App
 </details>
 
-### 💾 Working with Large Datasets 
+### Working with Large Datasets 
 
 <details>
 <summary>Click to expand Large Datasets resources</summary>
@@ -388,7 +388,7 @@ This roadmap is organized into five progressive levels:
 
 > This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
 
-### 🗄️ SQL  
+### SQL  
 
 <details>
 <summary>Click to expand SQL resources</summary>
@@ -396,7 +396,7 @@ This roadmap is organized into five progressive levels:
 1. **SQL learning resources** - [View Resources](https://docs.google.com/document/d/1wCALgWubTOvuvlXJ3Eweh7AgJj4sPq2pW92y3viPZbs/edit?tab=t.0#heading=h.e469kzlgl447)
 </details>
 
-### 🎬 Recommendation Systems 
+### Recommendation Systems 
 
 <details>
 <summary>Click to expand Recommendation Systems resources</summary>
@@ -405,7 +405,7 @@ This roadmap is organized into five progressive levels:
 2. **Book Recommender System** - [View Project](https://github.com/AdilShamim8/Book-Recommender-System)
 </details>
 
-### 🛒 Association Rule Learning
+### Association Rule Learning
 
 <details>
 <summary>Click to expand Association Rule Learning resources</summary>
@@ -416,7 +416,7 @@ This roadmap is organized into five progressive levels:
 > - Market Basket Analysis
 </details>
 
-### 🔍 Anomaly Detection
+### Anomaly Detection
 
 <details>
 <summary>Click to expand Anomaly Detection resources</summary>
@@ -426,7 +426,7 @@ This roadmap is organized into five progressive levels:
 > - Novelty Detection Lecture
 </details>
 
-### 📝 NLP 
+### NLP 
 
 <details>
 <summary>Click to expand NLP resources</summary>
@@ -436,13 +436,13 @@ This roadmap is organized into five progressive levels:
 3. **Email Spam Classifier Project** - [View Project](https://github.com/AdilShamim8/Email-Spam-Classifier)
 </details>
 
-### ⏰ Time Series
+### Time Series
 > Coming Soon
 
-### 👁️ Computer Vision
+### Computer Vision
 > Coming Soon
 
-### 🧠 Fundamentals of Neural Network
+### Fundamentals of Neural Network
 > Coming Soon
 
 ---
@@ -451,7 +451,7 @@ This roadmap is organized into five progressive levels:
 
 > The objective of this level is to sharpen the knowledge that you have accumulated in the previous 4 levels
 
-### 💯 Project Collections
+### Project Collections
 
 <details>
 <summary>Click to expand Project resources</summary>
