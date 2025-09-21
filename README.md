@@ -52,7 +52,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 ### Learn about tensors 
 1. What are Tensors? -  [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/1.%20Learn%20about%20tensors) 
-### Advance Statistics
+### Advanced Statistics
 1. Advance Statistics Notes  - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) 
 ### Probability Basics
 1. Probability Basics Notes - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Probability%20Basics)
@@ -73,8 +73,8 @@ The goal of this level is to learn the core machine learning concepts and algori
 10. Adaboost - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/AdaBoost)
 11. Gradient Boosting - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Gradient%20Boosting)
 12. Xgboost - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/XGBoost) 
-13. Principle Component Analysis (PCA) - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/PCA) 
-14. KMeans Clustering - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/K_Means) 
+13. Principal Component Analysis (PCA) - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/PCA) 
+14. K-Means Clustering - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/K_Means) 
 15. Hierarchical Clustering - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Hierarchical%20Clustering) 
 16. DBSCAN - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/DBSCAN%20Clustering)
 
@@ -168,7 +168,7 @@ This is the level where you would dive into different domains of Machine Learnin
 3. Market Basket Analysis - (Coming Soon)
 
 ### Anomaly Detection
- 1. Anamoly Detection Lecture from Microsoft Research - (Coming Soon)
+ 1. Anomaly Detection Lecture from Microsoft Research - (Coming Soon)
  2. Novelty Detection Lecture - (Coming Soon)
 
 ### NLP 
