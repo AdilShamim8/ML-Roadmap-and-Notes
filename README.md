@@ -464,12 +464,11 @@ This roadmap is organized into five progressive levels:
 
 <p align="center">
   <a href="https://github.com/AdilShamim8">
-    <img src="https://img.shields.io/badge/GitHub-AdilShamim8-blue?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-AdilShamim8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-</p>
-<p align="center">
+  <span style="opacity:.6"> &nbsp; </span>
   <a href="https://www.linkedin.com/in/adilshamim8">
-    <img src="https://img.shields.io/badge/LinkedIn-AdilShamim8-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-AdilShamim8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
 
