@@ -139,7 +139,7 @@ This roadmap is organized into five progressive levels:
 <details>
 <summary>Click to expand Advanced Statistics resources</summary>
 
-1. **Advance Statistics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) 
+1. **Advanced Statistics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advance%20Statistics) 
 </details>
 
 ### Probability Basics
@@ -467,8 +467,13 @@ This roadmap is organized into five progressive levels:
     <img src="https://img.shields.io/badge/GitHub-AdilShamim8-blue?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adilshamim8">
+    <img src="https://img.shields.io/badge/LinkedIn-AdilShamim8-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
 <!-- 
-Made with ❤️ by Adil Shamim
+Made by Adil Shamim
 Last updated: September 2025
 -->
