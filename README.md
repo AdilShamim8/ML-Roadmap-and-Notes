@@ -142,12 +142,12 @@ This roadmap is organized into five progressive levels:
 1. **Advanced Statistics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/2.%20Advanced%20Statistics) 
 </details>
 
-### Probability Basics
+### Fundamental Probability
 
 <details>
 <summary>Click to expand Probability resources</summary>
 
-1. **Probability Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Probability%20Basics)
+1. **Probability Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Fundamental%20Probability)
 </details>
 
 ### Linear Algebra Basics
