@@ -84,7 +84,7 @@ This roadmap is organized into five progressive levels:
 <details>
 <summary>Click to expand Statistics resources</summary>
 
-1. **Statistics** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Fundamental%20Statistics)
+1. **Statistics** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/5.%20Fundamentals%20of%20Statistics)
 </details>
 
 ### Learn Data Analysis Process 
