@@ -150,12 +150,12 @@ This roadmap is organized into five progressive levels:
 1. **Probability Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/3.%20Fundamentals%20of%20Probability)
 </details>
 
-### Linear Algebra Basics
+### Fundamentals of Linear Algebra
 
 <details>
 <summary>Click to expand Linear Algebra resources</summary>
 
-1. **Linear Algebra Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Linear%20Algebra%20Basics)
+1. **Linear Algebra Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Fundamentals%20of%20Linear%20Algebra)
 </details>
 
 ### Basics of Calculus
