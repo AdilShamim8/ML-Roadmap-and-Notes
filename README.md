@@ -79,7 +79,7 @@ This roadmap is organized into five progressive levels:
 2. **Seaborn** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/4.%20Learn%20Data%20Visualization/Seaborn)
 </details>
 
-###  Fundamental Statistics 
+###  Fundamentals of Statistics
 
 <details>
 <summary>Click to expand Statistics resources</summary>
