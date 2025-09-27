@@ -20,3 +20,10 @@ https://lindeloev.github.io/tests-as-linear/
 https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b
 
 https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Cheatsheets#defining-good-hypotheses-in-a-hypothesis-test
+
+
+> # `Best Books`
+
+https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf
+https://github.com/varunkashyapks/Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf
+https://greenteapress.com/thinkstats/thinkstats.pdf
