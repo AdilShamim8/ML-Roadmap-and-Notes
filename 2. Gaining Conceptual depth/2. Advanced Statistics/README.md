@@ -9,3 +9,14 @@ https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf
 https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
 
 https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
+
+
+> # `Best Blogs`
+
+https://machinelearningmastery.com/category/statistical-methods/
+
+https://lindeloev.github.io/tests-as-linear/
+
+https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b
+
+https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Cheatsheets#defining-good-hypotheses-in-a-hypothesis-test
