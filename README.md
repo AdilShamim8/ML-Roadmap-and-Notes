@@ -158,12 +158,12 @@ This roadmap is organized into five progressive levels:
 1. **Linear Algebra Basics Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/4.%20Fundamentals%20of%20Linear%20Algebra)
 </details>
 
-### Basics of Calculus
+### Fundamentals of Calculus
 
 <details>
 <summary>Click to expand Calculus resources</summary>
 
-1. **Basics of Calculus Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Basics%20of%20Calculus)
+1. **Basics of Calculus Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/5.%20Fundamentals%20of%20Calculus)
 </details>
 
 ### Machine Learning Algorithms
