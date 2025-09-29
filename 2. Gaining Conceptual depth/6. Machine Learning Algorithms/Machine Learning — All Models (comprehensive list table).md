@@ -1,3 +1,46 @@
+# Machine Learning — Quick Reference Table (most important models)
+
+| **Model / Method**                     |                      **Type / Role** | **When to use**                                        | **Intuition (one line)**                                                       |                                      **Key sklearn / lib** | **Tuning knobs (important)**                                                  |
+| -------------------------------------- | -----------------------------------: | ------------------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| **Linear Regression**                  |                  Regression (linear) | Baseline for continuous targets                        | Fit a line (or plane) that minimizes squared error.                            |                    `sklearn.linear_model.LinearRegression` | `fit_intercept`, regularize with `Ridge/Lasso`                                |
+| **Gradient Descent**                   |               Optimization algorithm | Used to train many models (logistic, NN, linear w/SGD) | Iteratively update params in negative gradient direction.                      | `sklearn.linear_model.SGDClassifier/Regressor` (or custom) | `learning_rate` (α), `batch_size`, `epochs`, momentum                         |
+| **Logistic Regression**                |              Classification (linear) | Baseline binary/multi-class classification             | Sigmoid on linear combo → probability of class.                                |                  `sklearn.linear_model.LogisticRegression` | `C` (inverse reg), `penalty` (l1/l2), solver                                  |
+| **Support Vector Machines (SVM)**      |          Classification / Regression | Small–medium, high-dimensional data                    | Find max-margin hyperplane (can use kernels).                                  |                                  `sklearn.svm.SVC` / `SVR` | `C`, `kernel`, `gamma` (RBF), `degree`                                        |
+| **Naive Bayes**                        |             Probabilistic classifier | Text, high-d sparse features, quick baseline           | Assume feature independence; compute class probabilities.                      |          `sklearn.naive_bayes.GaussianNB`, `MultinomialNB` | `alpha` (smoothing, for multinomial)                                          |
+| **K-Nearest Neighbors (KNN)**          |                       Instance-based | Small datasets, simple baseline                        | Predict by majority (classification) or average (regression) of nearest neighbors. |                   `sklearn.neighbors.KNeighborsClassifier` | `n_neighbors`, `weights` (uniform/distance), `p` (distance metric)            |
+| **Decision Trees**                     |             Interpretable tree model | Quick interpretable models, non-linearities            | Split features to make pure leaves (if unchecked, overfits).                   |            `sklearn.tree.DecisionTreeClassifier/Regressor` | `max_depth`, `min_samples_leaf`, `criterion`                                  |
+| **Random Forest**                      |          Ensemble (bagging of trees) | Strong general-purpose baseline                        | Many trees trained on bootstraps → average/vote reduces variance.              |                  `sklearn.ensemble.RandomForestClassifier` | `n_estimators`, `max_depth`, `max_features`                                   |
+| **Bagging**                            |                 Ensemble meta-method | Reduce variance for unstable learners                  | Train same base learner on bootstrap samples, aggregate.                       |                       `sklearn.ensemble.BaggingClassifier` | `n_estimators`, `base_estimator`, `max_samples`                               |
+| **AdaBoost**                           |                Boosting (sequential) | When weak learners are available                       | Sequentially focus on misclassified samples (weights).                         |                      `sklearn.ensemble.AdaBoostClassifier` | `n_estimators`, `learning_rate`, base estimator depth                         |
+| **Gradient Boosting**                  |                Boosting (sequential) | High-performance tabular predictions                   | Sequentially add models to correct previous residuals.                         |              `sklearn.ensemble.GradientBoostingClassifier` | `n_estimators`, `learning_rate`, `max_depth`                                  |
+| **XGBoost**                            |                 Boosting (optimized) | Large/tabular datasets (industry standard)             | Fast, regularized gradient boosting with many optimizations.                   |                   `xgboost.XGBClassifier` / `XGBRegressor` | `n_estimators`, `learning_rate`, `max_depth`, `subsample`, `colsample_bytree` |
+| **PCA (Principal Component Analysis)** |             Dimensionality reduction | Compress features, visualize, speed-up models          | Rotate to orthogonal axes that capture most variance.                          |                                `sklearn.decomposition.PCA` | `n_components`, `svd_solver`                                                  |
+| **K-Means Clustering**                 |              Unsupervised clustering | Partitioning into K spherical-ish clusters             | Assign points to nearest centroid, update centroids iteratively.               |                                   `sklearn.cluster.KMeans` | `n_clusters`, `init`, `n_init`, `max_iter`                                    |
+| **Hierarchical Clustering**            |              Unsupervised clustering | Small datasets, dendrogram insights                    | Merge/split clusters to form a tree (agglomerative/divisive).                    |                  `sklearn.cluster.AgglomerativeClustering` | `n_clusters`, `linkage`                                                       |
+| **DBSCAN**                             |             Density-based clustering | Arbitrary-shaped clusters, noise detection             | Expand clusters from dense cores using eps & minPts.                           |                                   `sklearn.cluster.DBSCAN` | `eps`, `min_samples`, `metric`                                                |
+| **t-SNE (T-SNE)**                      | Non-linear embedding / visualization | Visualize high-dim data in 2D/3D (exploration)         | Preserves local neighbor structure; good for plots (not features).             |                                    `sklearn.manifold.TSNE` | `perplexity`, `n_iter`, `learning_rate`                                       |
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Machine Learning — All Models (comprehensive list table)
 
 ## Supervised — Regression
