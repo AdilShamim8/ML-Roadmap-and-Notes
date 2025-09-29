@@ -171,6 +171,7 @@ This roadmap is organized into five progressive levels:
 <details>
 <summary>Click to expand ML Algorithms resources</summary>
 
+Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Machine%20Learning%20All%20Models.md) 
 | Algorithm | Notes Link |
 |-----------|------------|
 | Linear Regression | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Linear%20Regression) |
