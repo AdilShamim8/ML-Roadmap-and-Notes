@@ -21,25 +21,245 @@
 | **t-SNE (T-SNE)**                      | Non-linear embedding / visualization | Visualize high-dim data in 2D/3D (exploration)         | Preserves local neighbor structure; good for plots (not features).             |                                    `sklearn.manifold.TSNE` | `perplexity`, `n_iter`, `learning_rate`                                       |
 
 ---
+```python
+# ML model demos — run in a Jupyter cell
+# Requirements:
+# pip install numpy pandas scikit-learn matplotlib seaborn xgboost --upgrade
+
+import warnings
+warnings.filterwarnings("ignore")
+
+import numpy as np
+import pandas as pd
+from time import time
+
+# Helpers for consistent evaluation
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.metrics import (
+    mean_squared_error, r2_score,
+    accuracy_score, classification_report, confusion_matrix,
+    silhouette_score
+)
+
+# Datasets
+from sklearn import datasets
+iris = datasets.load_iris()
+X_iris, y_iris = iris.data, iris.target
+
+diabetes = datasets.load_diabetes()
+X_db, y_db = diabetes.data, diabetes.target
+
+from sklearn.datasets import make_blobs
+X_blobs, y_blobs = make_blobs(n_samples=500, centers=4, n_features=4, random_state=42)
+
+# Split datasets
+Xc_train, Xc_test, yc_train, yc_test = train_test_split(X_iris, y_iris, test_size=0.2, random_state=42, stratify=y_iris)
+Xr_train, Xr_test, yr_train, yr_test = train_test_split(X_db, y_db, test_size=0.2, random_state=42)
+Xcl_train, Xcl_test, _y1, _y2 = train_test_split(X_blobs, y_blobs, test_size=0.2, random_state=42)
 
 
+########################################################
+# 1) Linear Regression (sklearn) — Regression demo
+########################################################
+print("\n# 1) Linear Regression (sklearn)")
+from sklearn.linear_model import LinearRegression
+lr = LinearRegression()
+lr.fit(Xr_train, yr_train)
+y_pred = lr.predict(Xr_test)
+print("MSE:", mean_squared_error(yr_test, y_pred))
+print("R2 :", r2_score(yr_test, y_pred))
 
+########################################################
+# 2) Gradient Descent (manual) demonstrating optimization
+#    — simple linear regression via GD on diabetes dataset
+########################################################
+print("\n# 2) Gradient Descent (manual) for linear regression")
+# add intercept
+X = np.hstack([np.ones((Xr_train.shape[0],1)), Xr_train])
+Xt = np.hstack([np.ones((Xr_test.shape[0],1)), Xr_test])
 
+def gradient_descent(X, y, lr_init=0.01, epochs=5000, verbose=False):
+    n, m = X.shape
+    theta = np.zeros(m)
+    lr = lr_init
+    for epoch in range(epochs):
+        preds = X.dot(theta)
+        error = preds - y
+        grad = (1.0/n) * X.T.dot(error)
+        theta -= lr * grad
+        if verbose and epoch % 1000 == 0:
+            print(f"epoch {epoch}, loss {np.mean(error**2):.4f}")
+    return theta
 
+theta = gradient_descent(X, yr_train, lr_init=0.01, epochs=5000, verbose=False)
+preds_test = Xt.dot(theta)
+print("Manual GD MSE:", mean_squared_error(yr_test, preds_test))
+print("Manual GD R2 :", r2_score(yr_test, preds_test))
 
+########################################################
+# 3) Logistic Regression — Classification demo (Iris)
+########################################################
+print("\n# 3) Logistic Regression (sklearn)")
+from sklearn.linear_model import LogisticRegression
+logreg = LogisticRegression(max_iter=200, solver='lbfgs', multi_class='auto', random_state=42)
+logreg.fit(Xc_train, yc_train)
+y_pred = logreg.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
+print(classification_report(yc_test, y_pred))
 
+########################################################
+# 4) Support Vector Machine (SVM)
+########################################################
+print("\n# 4) Support Vector Machine (SVM)")
+from sklearn.svm import SVC
+svm = SVC(kernel='rbf', C=1.0, gamma='scale', probability=False, random_state=42)
+svm.fit(Xc_train, yc_train)
+y_pred = svm.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
 
+########################################################
+# 5) Naive Bayes (Gaussian) — good baseline for small feature sets / numeric
+########################################################
+print("\n# 5) Naive Bayes (GaussianNB)")
+from sklearn.naive_bayes import GaussianNB
+gnb = GaussianNB()
+gnb.fit(Xc_train, yc_train)
+y_pred = gnb.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
 
+########################################################
+# 6) K-Nearest Neighbors (KNN)
+########################################################
+print("\n# 6) K-Nearest Neighbors (KNN)")
+from sklearn.neighbors import KNeighborsClassifier
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(Xc_train, yc_train)
+y_pred = knn.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
 
+########################################################
+# 7) Decision Tree
+########################################################
+print("\n# 7) Decision Tree")
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+dt = DecisionTreeClassifier(max_depth=4, random_state=42)
+dt.fit(Xc_train, yc_train)
+y_pred = dt.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
+# (plotting omitted for script; use plot_tree in notebook to visualize)
 
+########################################################
+# 8) Random Forest
+########################################################
+print("\n# 8) Random Forest")
+from sklearn.ensemble import RandomForestClassifier
+rf = RandomForestClassifier(n_estimators=100, random_state=42)
+rf.fit(Xc_train, yc_train)
+y_pred = rf.predict(Xc_test)
+print("Accuracy:", accuracy_score(yc_test, y_pred))
 
+########################################################
+# 9) Bagging (BaggingClassifier) demo using DecisionTree as base
+########################################################
+print("\n# 9) Bagging (BaggingClassifier)")
+from sklearn.ensemble import BaggingClassifier
+from sklearn.tree import DecisionTreeClassifier
+bag = BaggingClassifier(base_estimator=DecisionTreeClassifier(max_depth=4), n_estimators=50, random_state=42)
+bag.fit(Xc_train, yc_train)
+print("Accuracy:", accuracy_score(yc_test, bag.predict(Xc_test)))
 
+########################################################
+# 10) AdaBoost
+########################################################
+print("\n# 10) AdaBoost")
+from sklearn.ensemble import AdaBoostClassifier
+adb = AdaBoostClassifier(n_estimators=100, learning_rate=0.5, random_state=42)
+adb.fit(Xc_train, yc_train)
+print("Accuracy:", accuracy_score(yc_test, adb.predict(Xc_test)))
 
+########################################################
+# 11) Gradient Boosting (sklearn)
+########################################################
+print("\n# 11) GradientBoosting (sklearn)")
+from sklearn.ensemble import GradientBoostingClassifier
+gb = GradientBoostingClassifier(n_estimators=200, learning_rate=0.1, max_depth=3, random_state=42)
+gb.fit(Xc_train, yc_train)
+print("Accuracy:", accuracy_score(yc_test, gb.predict(Xc_test)))
 
+########################################################
+# 12) XGBoost (if available)
+########################################################
+print("\n# 12) XGBoost (if installed)")
+try:
+    import xgboost as xgb
+    xgbc = xgb.XGBClassifier(use_label_encoder=False, eval_metric='mlogloss', n_estimators=100, random_state=42)
+    xgbc.fit(Xc_train, yc_train)
+    print("Accuracy:", accuracy_score(yc_test, xgbc.predict(Xc_test)))
+except Exception as e:
+    print("xgboost not available. To install: pip install xgboost")
+    # fallback: show earlier gb result
+    print("Skipping XGBoost demo (using sklearn GradientBoosting instead).")
 
+########################################################
+# 13) PCA — dimensionality reduction (fit + transform)
+########################################################
+print("\n# 13) PCA (dimensionality reduction)")
+from sklearn.decomposition import PCA
+pca = PCA(n_components=2, random_state=42)
+X_pca = pca.fit_transform(X_iris)
+print("Explained variance ratios:", pca.explained_variance_ratio_)
 
+########################################################
+# 14) K-Means clustering demo (with blobs)
+########################################################
+print("\n# 14) K-Means Clustering")
+from sklearn.cluster import KMeans
+km = KMeans(n_clusters=4, random_state=42, n_init=10)
+km.fit(X_blobs)
+labels = km.predict(X_blobs)
+print("Silhouette (kmeans):", silhouette_score(X_blobs, labels))
 
+########################################################
+# 15) Hierarchical Clustering (Agglomerative)
+########################################################
+print("\n# 15) Hierarchical (Agglomerative) Clustering")
+from sklearn.cluster import AgglomerativeClustering
+agg = AgglomerativeClustering(n_clusters=4, linkage='ward')
+agg_labels = agg.fit_predict(X_blobs)
+print("Silhouette (agg):", silhouette_score(X_blobs, agg_labels))
 
+########################################################
+# 16) DBSCAN — density-based clustering
+########################################################
+print("\n# 16) DBSCAN")
+from sklearn.cluster import DBSCAN
+dbscan = DBSCAN(eps=1.0, min_samples=5, metric='euclidean')
+db_labels = dbscan.fit_predict(X_blobs)
+# DBSCAN labels -1 are noise; only compute silhouette on core points if >1 cluster
+unique_clusters = set(db_labels)
+if len([c for c in unique_clusters if c != -1]) > 1:
+    s = silhouette_score(X_blobs, db_labels)
+    print("Silhouette (DBSCAN):", s)
+else:
+    print("DBSCAN found <=1 cluster (likely noise or a single cluster). Labels:", unique_clusters)
+
+########################################################
+# 17) t-SNE — visualization (use small datasets)
+########################################################
+print("\n# 17) t-SNE (visualization)")
+from sklearn.manifold import TSNE
+tsne = TSNE(n_components=2, perplexity=30, n_iter=1000, random_state=42, init='pca')
+X_tsne = tsne.fit_transform(X_iris)
+print("t-SNE result shape:", X_tsne.shape)
+
+########################################################
+# End summary: quick printout of models ran and sample metrics
+########################################################
+print("\n# Summary metrics snapshot")
+print("LinearRegression R2:", round(r2_score(yr_test, y_pred if 'y_pred' in locals() else preds_test), 4))
+print("LogisticRegression Acc:", round(accuracy_score(yc_test, logreg.predict(Xc_test)), 4))
+print("RandomForest Acc:", round(accuracy_score(yc_test, rf.predict(Xc_test)), 4))
+```
 
 # Machine Learning — All Models (comprehensive list table)
 
