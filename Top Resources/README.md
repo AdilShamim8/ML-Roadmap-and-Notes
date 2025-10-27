@@ -19,7 +19,7 @@ With the demand for ML professionals continuing to rise, learning this skill is 
 |--|--------|-------------|----------|------|------|
 | 1 | **Machine Learning Specialization** by DeepLearning.AI & Stanford (Coursera) | Beginner-level supervised & unsupervised ML, neural nets by Andrew Ng | 50–100 hrs | Free audit, $49/mo | [Link](https://www.coursera.org/specializations/machine-learning-introduction) |
 | 2 | **Deep Learning Specialization** by DeepLearning.AI (Coursera) | Advanced neural nets, tuning, generative models | 80 hrs | Free audit, $49/mo | [Link](https://www.coursera.org/specializations/deep-learning) |
-| 3 | **Intro to ML** by MIT (Open Learning Library) | Rigorous theory and algorithms | 100+ hrs | Free | *Link not provided* |
+| 3 | **Intro to ML** by MIT (Open Learning Library) | Rigorous theory and algorithms | 100+ hrs | Free | [Link](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) |
 | 4 | **ML Crash Course** by Google | Linear regression, TensorFlow intro | 15 hrs | Free | [Link](https://developers.google.com/machine-learning/crash-course) |
 | 5 | **ML with Python** by IBM (Coursera) | Regression, clustering, recommender systems | 25 hrs | Free audit, $39/mo | [Link](https://www.coursera.org/learn/machine-learning-with-python) |
 | 6 | **Advanced ML Specialization** by NRU HSE (Coursera) | Bayesian methods, deep learning | 8–10 months | Free audit, $49/mo | [Link](https://www.coursera.org/specializations/aml) |
