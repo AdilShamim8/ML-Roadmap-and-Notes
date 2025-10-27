@@ -474,6 +474,12 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
   </a>
 </p>
 
+<div align="center">
+  
+⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
+
+</div>
+
 <!-- 
 Made by Adil Shamim
 Last updated: October 2025
