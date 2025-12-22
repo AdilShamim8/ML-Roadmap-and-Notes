@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/AdilShamim8/ML-Roadmap-and-Notes?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-November%202025-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-brightgreen)
 
 > A carefully curated collection of machine learning notes, resources, projects, and datasets designed to guide you through the ML landscape effectively.
 
