@@ -447,6 +447,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <summary>Click to expand Computer Vision resources</summary>
 
 1. **Introduction to Computer Vision** - [View Notebook](https://www.kaggle.com/code/adilshamim8/introduction-to-computer-vision)
+2. **Cat vs Dog Classification Project** - [View Project](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)
 </details>
 
 ### Fundamentals of Neural Network
