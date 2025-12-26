@@ -1,6 +1,7 @@
 # Machine Learning Roadmap and Notes
 
 ![GitHub stars](https://img.shields.io/github/stars/AdilShamim8/ML-Roadmap-and-Notes?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AdilShamim8/ML-Roadmap-and-Notes?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-brightgreen)
 
