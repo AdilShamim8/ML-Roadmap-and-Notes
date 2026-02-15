@@ -30,11 +30,11 @@ This roadmap is organized into five progressive levels:
 
 | Level | Focus | Description |
 |-------|-------|-------------|
-| 1️⃣ | **Testing the waters** | Familiarize yourself with the ML universe |
-| 2️⃣ | **Gaining Conceptual depth** | Learn core ML concepts and algorithms |
-| 3️⃣ | **Learning Practical Concepts** | Apply ML in real-world scenarios |
-| 4️⃣ | **Diving into different domains** | Explore specialized ML fields |
-| 5️⃣ | **Pushing it with Projects** | Build comprehensive ML projects |
+| 1️ | **Testing the waters** | Familiarize yourself with the ML universe |
+| 2️ | **Gaining Conceptual depth** | Learn core ML concepts and algorithms |
+| 3️ | **Learning Practical Concepts** | Apply ML in real-world scenarios |
+| 4️ | **Diving into different domains** | Explore specialized ML fields |
+| 5️ | **Pushing it with Projects** | Build comprehensive ML projects |
 
 ---
 
