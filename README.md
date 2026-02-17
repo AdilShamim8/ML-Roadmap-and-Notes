@@ -124,6 +124,7 @@ This roadmap is organized into five progressive levels:
 <summary>Click to expand Mathematics resources</summary>
 
 - **Roadmap**: [Mathematics for Machine Learning](https://docs.google.com/spreadsheets/d/10spJMs0Zmv5cugfFjJVc4MudyOVjl_16Ef5z54oxqnM/edit?gid=0#gid=0)
+- **Book**: [Essential Math for Data Science](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/Top%20Resources/Essential%20Math%20for%20Data%20Science%20(Thomas%20Nield)%20(Z-Library).pdf)
 - **Book**: [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io)
 </details>
 
