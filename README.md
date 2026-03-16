@@ -15,6 +15,17 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=AdilShamim8%2FML-Roadmap-and-Notes&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Table of Contents
 
 - [Learning Journey Overview](#learning-journey-overview)
