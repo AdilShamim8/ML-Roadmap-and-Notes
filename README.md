@@ -17,17 +17,6 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=AdilShamim8%2FML-Roadmap-and-Notes&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=AdilShamim8/ML-Roadmap-and-Notes&type=date&legend=top-left" />
- </picture>
-</a>
-
 ## Table of Contents
 
 - [Learning Journey Overview](#learning-journey-overview)
@@ -879,3 +868,29 @@ Made by Adil Shamim
 Original roadmap: December 2025
 April 2026 update: Levels 6 & 7 added for Senior/Expert ML Engineers
 -->
+
+## Connect With Me
+<p align="center">
+  <a href="https://www.adilshamim.me/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://adilshamim8.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adilshamim8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adil_shamim8">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/adilshamim8">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/AdilShamim8">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+</p>
+
