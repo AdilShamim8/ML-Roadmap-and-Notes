@@ -422,10 +422,9 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Association Rule Learning resources</summary>
 
-> Coming Soon:
-> - Association Rule Mining(Apriori Algorithm)
-> - Eclat Algorithm
-> - Market Basket Analysis
+1. **Association Rule Learning** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/4.%20Diving%20into%20different%20domains/Association%20Rule%20Learning)
+
+> Support, confidence, and lift; the Apriori property; Eclat and FP-Growth — with a full market-basket mining walkthrough on 7,501 real supermarket transactions using mlxtend.
 </details>
 
 ### Anomaly Detection
