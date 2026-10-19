@@ -460,8 +460,15 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 2. **Cat vs Dog Classification Project** - [View Project](https://github.com/AdilShamim8/Cat_Vs_Dog_Image_Classification_Project)
 </details>
 
-### Fundamentals of Neural Network
-> Coming Soon
+### Fundamentals of Neural Networks
+
+<details>
+<summary>Click to expand Neural Network resources</summary>
+
+1. **Fundamentals of Neural Networks** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/4.%20Diving%20into%20different%20domains/Fundamentals%20of%20Neural%20Networks)
+
+> Neurons and MLPs, activation functions, backpropagation, a NumPy implementation from scratch, and the same network in PyTorch (executed on PyTorch 2.14). This is the prerequisite for Level 7 (Transformers, LLMs).
+</details>
 
 ---
 
