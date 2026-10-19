@@ -484,6 +484,16 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 
 > The objective of this level is to sharpen the knowledge that you have accumulated in the previous 4 levels
 
+### End-to-End ML Project (Capstone)
+
+<details>
+<summary>Click to expand the capstone project</summary>
+
+1. **End-to-End ML Project: Titanic Survival Prediction** - [View Project](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/5.%20Pushing%20it%20with%20Projects/End-to-End%20ML%20Project)
+
+> One complete project, run the professional way: problem framing → EDA → feature engineering → leak-free pipelines → model comparison → tuning → holdout evaluation → persistence and serving. Every stage maps back to Levels 1–4, and the real dataset ships with the notebook so it runs offline.
+</details>
+
 ### Project Collections
 
 <details>
