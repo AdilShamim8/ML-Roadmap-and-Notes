@@ -236,22 +236,22 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Data Acquisition resources</summary>
 
-1. **Data Acquisition** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition/Data%20Acquistion)
+1. **Data Acquisition** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/1.%20Data%20Acquisition)
 </details>
 
-### Working with missing values 
+### Working with Missing Values
 
 <details>
 <summary>Click to expand Missing Values resources</summary>
 
 | Technique | Notes Link |
 |-----------|------------|
-| Complete Case Analysis | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/1.%20Complete%20Case%20Analysis) |
-| Handling missing numerical data | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/2.%20Handling%20missing%20numerical%20data) |
-| Handling missing categorical data | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/3.%20Handling%20missing%20categorical%20data) |
-| Missing indicator | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/4.%20Missing%20indicator) |
-| KNN Imputer | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/5.%20KNN%20Imputer) |
-| MICE | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20missing%20values/6.%20MICE) |
+| Complete Case Analysis | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/1.%20Complete%20Case%20Analysis) |
+| Handling missing numerical data | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/2.%20Handling%20missing%20numerical%20data) |
+| Handling missing categorical data | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/3.%20Handling%20missing%20categorical%20data) |
+| Missing indicator | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/4.%20Missing%20indicator) |
+| KNN Imputer | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/5.%20KNN%20Imputer) |
+| MICE | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/2.%20Working%20with%20Missing%20Values/6.%20MICE) |
 
 **Practice Resources**: [Kaggle Notebooks and Practice Datasets](https://docs.google.com/document/d/1_9Y6kxNc6QTym2Y2JGEBbnCUbE1qZWLVzVXlT2eX_FQ/edit?usp=sharing)
 </details>
@@ -291,12 +291,12 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 2. **Sklearn Pipelines** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/6.%20Working%20with%20Pipelines/2.%20Sklearn%20Pipelines)
 </details>
 
-### Handing Time and Date
+### Handling Time and Date
 
 <details>
 <summary>Click to expand Time and Date resources</summary>
 
-1. **Working with time and date data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/7.%20Handing%20Time%20and%20Date%20data/1.%20Working%20with%20time%20and%20date%20data)
+1. **Working with Time and Date Data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/7.%20Handling%20Time%20and%20Date%20Data)
 </details>
 
 ### Working with Outliers
@@ -304,7 +304,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Outliers resources</summary>
 
-1. **Working with Outliers** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/8.%20Working%20with%20Outliers/Working%20with%20Outliers)
+1. **Working with Outliers** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/8.%20Working%20with%20Outliers)
 </details>
 
 ### Feature Construction 
@@ -312,7 +312,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Feature Construction resources</summary>
 
-1. **Feature Construction** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/9.%20Feature%20Construction/1.%20Feature%20Construction)
+1. **Feature Construction** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/9.%20Feature%20Construction)
 </details>
 
 ### Feature Selection 
@@ -320,7 +320,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Feature Selection resources</summary>
 
-1. **Feature selection** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/10.%20Feature%20Selection/Feature%20Selection)
+1. **Feature Selection** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/10.%20Feature%20Selection)
 </details>
 
 ### Cross Validation 
@@ -328,7 +328,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Cross Validation resources</summary>
 
-1. **Cross-validation** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/11.%20Cross%20Validation/Cross%20Validation)
+1. **Cross Validation** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/11.%20Cross%20Validation)
 </details>
 
 ### Modelling - Stacking and Blending 
@@ -352,12 +352,12 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 3. **Hyperparameter Tuning** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/13.%20Model%20Tuning/Hyperparameter%20Tuning)
 </details>
 
-### Working with imbalanced data 
+### Working with Imbalanced Data
 
 <details>
 <summary>Click to expand Imbalanced Data resources</summary>
 
-1. **How to handle imbalanced data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/14.%20Working%20with%20imbalanced%20data/Handling%20imbalanced%20dataset)
+1. **Working with Imbalanced Data** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/14.%20Working%20with%20Imbalanced%20Data)
 </details>
 
 ### Handling Multicollinearity
@@ -365,7 +365,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Multicollinearity resources</summary>
 
-1. **Handling Multicollinearity** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/15.%20Handling%20Multicollinearity/Handling%20Multicollinearity)
+1. **Handling Multicollinearity** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/15.%20Handling%20Multicollinearity)
 </details>
 
 ### Data Leakage
@@ -373,7 +373,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Data Leakage resources</summary>
 
-1. **Data Leakage** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/16.%20Data%20Leakage/Data%20Leakage)
+1. **Data Leakage** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/16.%20Data%20Leakage)
 </details>
 
 ### Serving your model
@@ -381,7 +381,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Model Serving resources</summary>
 
-1. **Model Serving** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/17.%20Model%20Serving/Model%20Serving)
+1. **Model Serving** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/17.%20Model%20Serving)
 
 > Covers model serialization (joblib, pickle, ONNX), REST APIs with FastAPI, quick demos with Streamlit and Gradio, and deployment targets from local Docker to AWS, GCP, Azure, and Hugging Face Spaces.
 </details>
@@ -391,7 +391,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Large Datasets resources</summary>
 
-1. **Working with Large Datasets** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/18.%20Working%20with%20Large%20Datasets/Working%20with%20Large%20Datasets)
+1. **Working with Large Datasets** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/18.%20Working%20with%20Large%20Datasets)
 </details>
 
 ---
