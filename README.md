@@ -449,7 +449,14 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 </details>
 
 ### Time Series
-> Coming Soon
+
+<details>
+<summary>Click to expand Time Series resources</summary>
+
+1. **Time Series Analysis and Forecasting** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/4.%20Diving%20into%20different%20domains/Time%20Series)
+
+> Covers trend/seasonality decomposition, stationarity and the ADF test, ACF/PACF, seasonal-naive and Holt-Winters baselines, ARIMA/SARIMA, walk-forward validation, and modern alternatives — with a full airline-passengers forecasting walkthrough.
+</details>
 
 ### Computer Vision
 
