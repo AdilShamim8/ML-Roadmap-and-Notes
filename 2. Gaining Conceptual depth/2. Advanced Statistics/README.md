@@ -24,8 +24,8 @@ https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/maste
 
 > # `Best Books`
 
-https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf
+https://www.statlearning.com/ (ISLR - free official PDF from the authors)
 
-https://github.com/varunkashyapks/Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf
+https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/ (Practical Statistics for Data Scientists - O'Reilly)
 
 https://greenteapress.com/thinkstats/thinkstats.pdf

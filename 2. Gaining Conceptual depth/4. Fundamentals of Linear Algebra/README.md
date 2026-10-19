@@ -14,7 +14,7 @@ https://medium.com/@data.dev.backyard/linear-algebra-cheatsheet-for-data-science
 
 > # `Best Books`
 
-https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf
+https://math.mit.edu/~gs/linearalgebra/ (Gilbert Strang - Introduction to Linear Algebra, official page)
 
 https://ncert.nic.in/textbook.php?lemh1=0-6
 
