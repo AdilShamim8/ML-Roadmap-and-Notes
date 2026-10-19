@@ -872,6 +872,20 @@ Key interview focus areas in 2026:
 
 ---
 
+## Top Resources
+
+<details>
+<summary>Click to expand Top Resources</summary>
+
+1. **Top Resources to Learn Machine Learning (2025 Edition)** - [View the Full Guide](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/Top%20Resources/README.md)
+2. **AI/ML Cheat Sheet** - [View PDF](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/Top%20Resources/AI_ML%20Cheat%20Sheet.pdf)
+3. **Top Resources to Learn Machine Learning in 2025 (PDF)** - [View PDF](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/Top%20Resources/Top%20Resources%20to%20Learn%20Machine%20Learning%20in%202025.pdf)
+
+> A curated companion guide: the top 10 courses, YouTube playlists, websites, books, and podcasts with a structured learning path — compiled October 2025.
+</details>
+
+---
+
 ## Summary: What Changed in the 2026 Updates
 
 | Section | What Was Added | Why |
@@ -879,6 +893,7 @@ Key interview focus areas in 2026:
 | **Level 6** (April 2026) | MLOps, Containerization, Cloud, Model Serving, System Design, Data Engineering, Business Skills | In 2026, MLOps is no longer optional. It is the foundation that enables scalable, secure, compliant, and business-ready AI systems. |
 | **Level 7** (April 2026) | Deep Learning, LLMs, RAG, AI Agents, LLMOps, XAI, Generative AI, Certifications | In 2026, companies expect engineers to build production-ready AI systems that combine large language models with RAG pipelines, vector databases, agent frameworks, fine-tuning, and scalable backends. |
 | **October 2026 Refresh** | Corrected the cloud platform table, updated frontier & open-weight model references (GPT-6, Claude 5.5, Gemini 4, Llama 4, gpt-oss, Muse Spark Open), refreshed AWS certification guidance after the ML Specialty retirement (March 2026), added Microsoft Agent Framework, and tightened the EU AI Act timeline | Keeps the roadmap accurate as the 2026 AI ecosystem moves. |
+| **Structure Pass (October 2026)** | Flattened 11 redundant Level 3 nestings; fixed folder typos ("Data Acquistion", "Handing Time and Date", "Advance Topics") and stray-space filenames; unified folder/file naming to Title Case; linked the Top Resources folder into the README; closed every Level 4 "Coming Soon" gap (Association Rules, Anomaly Detection, NLP); added the Level 5 end-to-end capstone project | Expert-level repo hygiene: a consistent, typo-free, fully navigable structure — every move a git rename, so file history is preserved. |
 
 > As AI becomes more capable, human skills become your competitive advantage. The code you write is important, but the problem you solve is vital. In 2026, the best ML Engineers will actually be Product Engineers who use AI.
 
