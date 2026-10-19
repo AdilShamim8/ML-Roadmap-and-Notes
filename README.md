@@ -373,15 +373,9 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Model Serving resources</summary>
 
-> Coming Soon:
-> - Pickling your model
-> - Flask
-> - Streamlit
-> - Deploy model on Heroku
-> - Deploy model on AWS
-> - Deploy model to GCP
-> - Deploy model to Azure
-> - ML model to Android App
+1. **Model Serving** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/3.%20Learn%20Practical%20Concepts/17.%20Model%20Serving/Model%20Serving)
+
+> Covers model serialization (joblib, pickle, ONNX), REST APIs with FastAPI, quick demos with Streamlit and Gradio, and deployment targets from local Docker to AWS, GCP, Azure, and Hugging Face Spaces.
 </details>
 
 ### Working with Large Datasets 
