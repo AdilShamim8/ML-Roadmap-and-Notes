@@ -209,6 +209,14 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/7.%20Machine%20Learning%20Metrics) 
 </details>
 
+### Bias-Variance Tradeoff
+
+<details>
+<summary>Click to expand Bias-Variance resources</summary>
+
+- [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/8.%20Bias-Variance%20Tradeoff)
+</details>
+
 ### Regularization  
 
 <details>
