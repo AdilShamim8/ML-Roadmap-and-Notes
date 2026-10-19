@@ -55,7 +55,7 @@ This roadmap is organized into seven progressive levels:
 
 1. **Basics of Python** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/1.%20Basics%20of%20Python)   
 2. **OOP in Python** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/2.%20OOP%20in%20Python)   
-3. **Advanced Topics** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/3.%20Advance%20Topics)   
+3. **Advanced Topics** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/3.%20Advanced%20Topics)   
 4. **Practice Problems** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/1.%20Testing%20the%20waters/1.%20Learn%20Python/Exercise.ipynb)  
 </details>
 
@@ -195,7 +195,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 | Gradient Boosting | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Gradient%20Boosting) |
 | XGBoost | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/XGBoost) |
 | PCA | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/PCA) |
-| K-Means Clustering | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/K_Means) |
+| K-Means Clustering | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/K-Means%20Clustering) |
 | Hierarchical Clustering | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Hierarchical%20Clustering) |
 | DBSCAN | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/DBSCAN%20Clustering) |
 | t-SNE | [Demo in the All-Models reference](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Machine%20Learning%20All%20Models.md) |
