@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/AdilShamim8/ML-Roadmap-and-Notes?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AdilShamim8/ML-Roadmap-and-Notes?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-April%202026-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-October%202026-brightgreen)
 
 
 
@@ -25,8 +25,8 @@
 - [Level 3: Learn Practical Concepts](#3-learn-practical-concepts)
 - [Level 4: Diving into different domains](#4-diving-into-different-domains)
 - [Level 5: Pushing it with Projects](#5-pushing-it-with-projects)
-- [Level 6: Senior / Expert-Level ML Engineering (🆕 April 2026)](#6-senior--expert-level-ml-engineering--april-2026)
-- [Level 7: Emerging & Frontier Topics (🆕 April 2026)](#7-emerging--frontier-topics--april-2026)
+- [Level 6: Senior / Expert-Level ML Engineering](#6-senior--expert-level-ml-engineering)
+- [Level 7: Emerging & Frontier Topics](#7-emerging--frontier-topics)
 
 ## Learning Journey Overview
 
@@ -478,7 +478,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 
 ---
 
-## 6. Senior / Expert-Level ML Engineering 🆕 (April 2026)
+## 6. Senior / Expert-Level ML Engineering
 
 > The high-value MLE in 2026 is an MLOps expert who can deploy and monitor models at scale, not just an algorithm tuner. This level covers the production engineering, infrastructure, and system-design skills that separate senior ML engineers from juniors.
 
@@ -564,8 +564,10 @@ Fluency in one major cloud provider (AWS, Azure, or GCP) is now expected for mos
 | Provider | Key ML Services |
 |----------|----------------|
 | **AWS** | SageMaker, Bedrock, S3, EC2, Lambda, Step Functions |
-| **GCP** | AWS is the market leader, but GCP often has the most intuitive and modern MLOps tools (like Vertex AI). Vertex AI, BigQuery ML, Cloud Run |
-| **Azure** | Azure ML, Azure OpenAI Service, Cognitive Services |
+| **GCP** | Vertex AI, BigQuery ML, Cloud Run, Vertex AI Feature Store |
+| **Azure** | Azure ML, Azure OpenAI Service, Azure AI Services |
+
+> AWS is the overall market leader, but GCP is often praised for having the most intuitive and modern MLOps tooling (Vertex AI), while Azure is the natural fit for Microsoft-centric enterprises. Pick the one that matches your target employers — not all three.
 
 </details>
 
@@ -649,7 +651,7 @@ The ability to frame business problems as machine-learning challenges is a criti
 
 ---
 
-## 7. Emerging & Frontier Topics 🆕 (April 2026)
+## 7. Emerging & Frontier Topics
 
 > The future of ML goes hand in hand with GenAI, LLMs, and AutoML enabling more autonomous model creation and intelligent systems. This level covers the most in-demand emerging skills for ML engineers in 2026.
 
@@ -683,10 +685,10 @@ The new reality with LLMs is fundamentally different. In 2026, production AI sys
 | Topic | What to Learn |
 |-------|--------------|
 | **LLM Fundamentals** | Tokenization, attention mechanisms, scaling laws, pretraining vs. fine-tuning |
-| **Working with LLM APIs** | OpenAI, Anthropic (Claude), Google (Gemini), open-source (Llama, Mistral, DeepSeek) |
+| **Working with LLM APIs** | OpenAI (GPT-5.x/6), Anthropic (Claude Opus/Sonnet 5.5), Google (Gemini 3/4), and open-weight models (Llama 4, gpt-oss, Muse Spark Open, Mistral, Qwen, DeepSeek) |
 | **Prompt Engineering** | Zero-shot, few-shot, and chain-of-thought prompting techniques to achieve consistent and controlled outputs. |
 | **Fine-Tuning** | With smaller, more efficient models becoming more common, fine-tuning is quickly turning into a core skill for AI engineers. LoRA, QLoRA, PEFT, using `trl` and Hugging Face |
-| **Model Selection** | Take a base model (Llama 3.3 8B is the 2026 choice), curate instruction-response pairs, run LoRA fine-tuning. Evaluate open-source vs. frontier models for your use case |
+| **Model Selection** | Pick an open-weights base appropriate to your hardware: Llama 4 Scout (fits a single GPU), OpenAI's gpt-oss-20b/120b, or Meta's Muse Spark Open (released October 2026, the most capable US open-weights model to date). Curate instruction-response pairs, run LoRA fine-tuning, and evaluate open-weight vs. frontier models for your use case |
 | **Quantization & Optimization** | GPTQ, AWQ, GGUF, INT8/FP16, vLLM for high-throughput serving |
 
 </details>
@@ -723,7 +725,7 @@ AI agents powered by large language models and other agentic architectures have 
 | Topic | What to Learn |
 |-------|--------------|
 | **Agent Fundamentals** | Take your RAG pipeline and give the model tools: web search, document retrieval, a calculator, a code executor. Implement the ReAct loop manually. |
-| **Agent Frameworks** | Teams starting new agent projects in 2026 are choosing LangGraph, CrewAI, or PydanticAI. Also: OpenAI Agents SDK, n8n |
+| **Agent Frameworks** | Teams starting new agent projects in 2026 are choosing LangGraph, CrewAI, or PydanticAI. Also: OpenAI Agents SDK, Microsoft Agent Framework (the unified successor to AutoGen and Semantic Kernel), n8n |
 | **Model Context Protocol (MCP)** | MCP has become the de facto standard for connecting AI agents to external systems. |
 | **Multi-Agent Systems** | Orchestration of multiple specialized agents, handoffs, shared state |
 | **Tool Use & Function Calling** | Define tools, parse LLM function calls, handle errors gracefully |
@@ -746,6 +748,7 @@ Many production stacks in 2026 use LlamaIndex as the knowledge/retrieval layer a
 | **LangGraph** | Stateful, graph-based agent workflows | [LangGraph Docs](https://langchain-ai.github.io/langgraph/) |
 | **CrewAI** | Multi-agent orchestration | [crewai.io](https://www.crewai.io/) |
 | **PydanticAI** | Type-safe agent building | [pydantic.dev/pydantic-ai](https://ai.pydantic.dev/) |
+| **Microsoft Agent Framework** | Unified successor to AutoGen + Semantic Kernel for multi-agent orchestration | [github.com/microsoft/agent-framework](https://github.com/microsoft/agent-framework) |
 | **OpenAI Agents SDK** | Official OpenAI agent tooling | [OpenAI Docs](https://platform.openai.com/docs/) |
 | **Hugging Face Transformers** | Model hub, fine-tuning, inference | [huggingface.co](https://huggingface.co/) |
 
@@ -784,7 +787,7 @@ Industry and regulatory trends indicate that explainable and ethical AI capabili
 |-------|--------------|
 | **Model Interpretability** | SHAP, LIME, Attention Visualization, Feature Importance |
 | **Bias Detection & Mitigation** | Building fair, transparent ML systems requires understanding data privacy regulations, implementing bias mitigation strategies, and ensuring responsible AI content generation. Fairlearn, AIF360 |
-| **AI Governance & Compliance** | Compliance frameworks like Europe's AI Act forced organizations to rethink how they managed governance and accountability in their AI systems. EU AI Act, NIST AI RMF |
+| **AI Governance & Compliance** | The EU AI Act is now in force in stages: prohibited practices since Feb 2025, GPAI model obligations since Aug 2025, and transparency obligations since Aug 2026; high-risk system obligations arrive Dec 2027. Also NIST AI RMF. |
 | **Model Cards & Documentation** | Standardized model documentation for transparency |
 | **Red Teaming for LLMs** | Adversarial testing of LLM systems for safety |
 
@@ -799,9 +802,9 @@ In 2026, MLOps is no longer just about CI/CD for models — it now encompasses c
 
 | Topic | What to Learn |
 |-------|--------------|
-| **Text Generation** | GPT-4, Claude, Gemini, Llama, Mistral — API usage and self-hosting |
+| **Text Generation** | GPT-6/GPT-5.x, Claude 5.5, Gemini 4, Llama 4, Mistral — API usage and self-hosting |
 | **Image Generation** | Stable Diffusion, DALL-E, Midjourney APIs |
-| **Multimodal Models** | GPT-4V, Gemini multimodal, LLaVA — combining text, image, audio |
+| **Multimodal Models** | Frontier multimodal APIs (GPT-6, Gemini 4, Claude 5.5) plus open models (Llama 4, LLaVA, Qwen-VL) — combining text, image, audio |
 | **Audio/Speech** | Whisper (speech-to-text), TTS models, audio embeddings |
 | **Code Generation** | GitHub Copilot integration, code LLMs, AI-assisted development |
 
@@ -818,11 +821,14 @@ The average salary for a Senior Machine Learning Engineer is $212,689 per year i
 
 | Certification | Provider | Notes |
 |--------------|----------|-------|
-| **AWS Machine Learning — Specialty** | AWS | AWS's ML Specialty exam is being retired in March 2026, so plan accordingly. Look for the new AWS AI/ML certifications replacing it. |
-| **AWS Certified AI Practitioner** | AWS | New 2026 entry-level AI certification |
+| **AWS Certified Generative AI Developer – Professional** | AWS | Production GenAI on SageMaker + Bedrock; the successor to the retired ML Specialty line |
+| **AWS Certified Machine Learning Engineer – Associate** | AWS | Hands-on ML build, train, and deploy on AWS |
+| **AWS Certified AI Practitioner** | AWS | Foundational AI certification, no prerequisites |
 | **Google Cloud Professional ML Engineer** | GCP | Strong focus on Vertex AI |
 | **Azure AI Engineer Associate** | Microsoft | Azure ML + Azure OpenAI |
 | **TensorFlow Developer Certificate** | Google | Proves hands-on TF proficiency |
+
+> Note: The AWS Certified Machine Learning – Specialty exam was **retired on March 31, 2026**. If you already earned it, it remains on your AWS transcript for three years. New candidates should target the **Generative AI Developer – Professional** or **Machine Learning Engineer – Associate** instead.
 
 #### Interview Preparation for Senior Roles
 
@@ -839,12 +845,13 @@ Key interview focus areas in 2026:
 
 ---
 
-## Summary: What Changed in the April 2026 Update
+## Summary: What Changed in the 2026 Updates
 
 | Section | What Was Added | Why |
 |---------|---------------|-----|
-| **Level 6** | MLOps, Containerization, Cloud, Model Serving, System Design, Data Engineering, Business Skills | In 2026, MLOps is no longer optional. It is the foundation that enables scalable, secure, compliant, and business-ready AI systems. |
-| **Level 7** | Deep Learning, LLMs, RAG, AI Agents, LLMOps, XAI, Generative AI, Certifications | In 2026, companies expect engineers to build production-ready AI systems that combine large language models with RAG pipelines, vector databases, agent frameworks, fine-tuning, and scalable backends. |
+| **Level 6** (April 2026) | MLOps, Containerization, Cloud, Model Serving, System Design, Data Engineering, Business Skills | In 2026, MLOps is no longer optional. It is the foundation that enables scalable, secure, compliant, and business-ready AI systems. |
+| **Level 7** (April 2026) | Deep Learning, LLMs, RAG, AI Agents, LLMOps, XAI, Generative AI, Certifications | In 2026, companies expect engineers to build production-ready AI systems that combine large language models with RAG pipelines, vector databases, agent frameworks, fine-tuning, and scalable backends. |
+| **October 2026 Refresh** | Corrected the cloud platform table, updated frontier & open-weight model references (GPT-6, Claude 5.5, Gemini 4, Llama 4, gpt-oss, Muse Spark Open), refreshed AWS certification guidance after the ML Specialty retirement (March 2026), added Microsoft Agent Framework, and tightened the EU AI Act timeline | Keeps the roadmap accurate as the 2026 AI ecosystem moves. |
 
 > As AI becomes more capable, human skills become your competitive advantage. The code you write is important, but the problem you solve is vital. In 2026, the best ML Engineers will actually be Product Engineers who use AI.
 
