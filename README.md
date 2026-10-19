@@ -484,7 +484,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 
 > The objective of this level is to sharpen the knowledge that you have accumulated in the previous 4 levels
 
-### End-to-End ML Project (Capstone)
+### End-to-End ML Projects (Capstones)
 
 <details>
 <summary>Click to expand the capstone project</summary>
@@ -492,6 +492,10 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 1. **End-to-End ML Project: Titanic Survival Prediction** - [View Project](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/5.%20Pushing%20it%20with%20Projects/End-to-End%20ML%20Project)
 
 > One complete project, run the professional way: problem framing → EDA → feature engineering → leak-free pipelines → model comparison → tuning → holdout evaluation → persistence and serving. Every stage maps back to Levels 1–4, and the real dataset ships with the notebook so it runs offline.
+
+2. **End-to-End Regression Project: California Housing Prices** - [View Project](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/5.%20Pushing%20it%20with%20Projects/End-to-End%20Regression%20Project)
+
+> The regression capstone: a log-transformed target, measured feature engineering, five model families compared under one protocol, dollar-metric holdout reporting (RMSE $46,985 vs a $117,312 naive baseline), and an error analysis that finds exactly where the money is lost — the $500k price cap costs 2.6× the average error on luxury blocks. Dataset ships with the notebook; runs fully offline.
 </details>
 
 ### Project Collections
