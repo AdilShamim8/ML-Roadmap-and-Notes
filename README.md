@@ -443,8 +443,10 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <summary>Click to expand NLP resources</summary>
 
 1. **NLP-Introduction** - [View Notebook](https://www.kaggle.com/code/adilshamim8/nlp-introduction)
-2. **NLP NOTES** - (Coming Soon)
+2. **NLP Notes** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/4.%20Diving%20into%20different%20domains/Natural%20Language%20Processing)
 3. **Email Spam Classifier Project** - [View Project](https://github.com/AdilShamim8/Email-Spam-Classifier)
+
+> The notes cover the full staircase — preprocessing, Bag-of-Words, TF-IDF, Word2Vec embeddings — executed on the real 5,574-message UCI SMS Spam Collection, with a 2026 guide on when classic NLP still beats LLMs.
 </details>
 
 ### Time Series
