@@ -432,9 +432,9 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 <details>
 <summary>Click to expand Anomaly Detection resources</summary>
 
-> Coming Soon:
-> - Anomaly Detection Lecture from Microsoft Research
-> - Novelty Detection Lecture
+1. **Anomaly Detection** - [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/4.%20Diving%20into%20different%20domains/Anomaly%20Detection)
+
+> Outlier vs anomaly vs novelty detection; Isolation Forest, LOF, One-Class SVM, and Elliptic Envelope — compared in a controlled experiment with injected anomalies, plus production notes on contamination, drift, and alert volume.
 </details>
 
 ### NLP 
