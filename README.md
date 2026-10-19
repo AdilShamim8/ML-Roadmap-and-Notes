@@ -198,7 +198,7 @@ Machine Learning — All Models [Link](https://github.com/AdilShamim8/ML-Roadmap
 | K-Means Clustering | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/K_Means) |
 | Hierarchical Clustering | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Hierarchical%20Clustering) |
 | DBSCAN | [View Notes](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/tree/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/DBSCAN%20Clustering) |
-| T-sne | Coming Soon |
+| t-SNE | [Demo in the All-Models reference](https://github.com/AdilShamim8/ML-Roadmap-and-Notes/blob/main/2.%20Gaining%20Conceptual%20depth/6.%20Machine%20Learning%20Algorithms/Machine%20Learning%20All%20Models.md) |
 </details>
 
 ### Machine Learning Metrics  

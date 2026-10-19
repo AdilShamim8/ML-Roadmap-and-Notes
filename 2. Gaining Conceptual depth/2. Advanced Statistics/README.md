@@ -1,31 +1,36 @@
 > # `Cheatsheets for Revision`
 
-https://static1.squarespace.com/static/5a5028498a02c7e658ff8f67/t/5a84aaf8e2c4835ce8d571dd/1518643960840/Statisticssheet.pdf
-
 https://www.stratascratch.com/blog/a-comprehensive-statistics-cheat-sheet-for-data-science-interviews/
-
-https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf
 
 https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
 
 https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 
+https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf
+
 
 > # `Best Blogs`
 
-https://machinelearningmastery.com/category/statistical-methods/
-
 https://lindeloev.github.io/tests-as-linear/
+
+https://machinelearningmastery.com/category/statistical-methods/
 
 https://towardsdatascience.com/how-to-ace-data-science-interviews-statistics-f3d363ad47b
 
-https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master/Cheatsheets#defining-good-hypotheses-in-a-hypothesis-test
+
+> # `Best Interactive & Video Courses`
+
+https://seeing-theory.brown.edu/ (Seeing Theory - interactive probability & inference)
+
+https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/ (MIT OCW 18.650 - Statistics for Applications)
+
+https://www.youtube.com/user/joshstarmer (StatQuest - hypothesis testing, distributions, and Bayesian thinking)
 
 
 > # `Best Books`
 
 https://www.statlearning.com/ (ISLR - free official PDF from the authors)
 
-https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/ (Practical Statistics for Data Scientists - O'Reilly)
+https://www.stat.cmu.edu/~larry/all-of-statistics/ (All of Statistics - Wasserman, CMU)
 
-https://greenteapress.com/thinkstats/thinkstats.pdf
+https://xcelab.net/rm/statistical-rethinking/ (Statistical Rethinking - McElreath, Bayesian modeling)
