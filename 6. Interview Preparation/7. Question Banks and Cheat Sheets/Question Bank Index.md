@@ -240,7 +240,7 @@ The complete index of interview questions across this section: **~200 questions*
 
 | # | Question | Diff | Answer in |
 | --- | --- | --- | --- |
-| 151 | Power analysis before the test (n for a lift) | ●● | [A/B Testing & Causal](../3.%20Machine%20Learning%20Interviews/A%20B%20Testing%20and%20Causal%20Inference.ipynb) |
+| 151 | Power analysis before the test (n for a lift) | ●● | [A/B Testing & Causal](../3.%20Machine%20Learning%20Interviews/A-B%20Testing%20and%20Causal%20Inference.ipynb) |
 | 152 | Why peeking breaks α (and the fixes) | ●●● | 〃 |
 | 153 | CUPED variance reduction | ●●● | 〃 |
 | 154 | Simpson's reversal on treatment effects | ●●● | 〃 |

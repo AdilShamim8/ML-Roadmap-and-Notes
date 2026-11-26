@@ -49,7 +49,7 @@ Theory rounds, organized so every answer is quotable.
 - [Regularization and Bias-Variance.ipynb](3.%20Machine%20Learning%20Interviews/Regularization%20and%20Bias-Variance.ipynb) — L1 vs L2 geometry, lambda selection, the "double descent" follow-up
 - [Gradient Descent from Scratch.ipynb](3.%20Machine%20Learning%20Interviews/Gradient%20Descent%20from%20Scratch.ipynb) — GD, SGD, mini-batch, momentum, Adam: coded and converged on real data
 - [Feature Engineering Questions.ipynb](3.%20Machine%20Learning%20Interviews/Feature%20Engineering%20Questions.ipynb) — encoding, leakage-safe pipelines, target encoding done right
-- [A/B Testing and Causal Inference.ipynb](3.%20Machine%20Learning%20Interviews/A%20B%20Testing%20and%20Causal%20Inference.ipynb) — power, MDE, peaking, CUPED, uplift: the DS-loop differentiator
+- [A/B Testing and Causal Inference.ipynb](3.%20Machine%20Learning%20Interviews/A-B%20Testing%20and%20Causal%20Inference.ipynb) — power, MDE, peaking, CUPED, uplift: the DS-loop differentiator
 
 ### 4. Deep Learning and Domains
 - [Deep Learning Questions.ipynb](4.%20Deep%20Learning%20and%20Domains/Deep%20Learning%20Questions.ipynb) — backprop by hand, vanishing gradients, batch norm, dropout, optimizers — with a NumPy-only neural net that trains live
