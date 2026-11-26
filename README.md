@@ -27,6 +27,7 @@
 - [Level 5: Pushing it with Projects](#5-pushing-it-with-projects)
 - [Level 6: Senior / Expert-Level ML Engineering](#6-senior--expert-level-ml-engineering)
 - [Level 7: Emerging & Frontier Topics](#7-emerging--frontier-topics)
+- [Interview Preparation](#-interview-preparation) 🆕
 
 ## Learning Journey Overview
 
@@ -41,6 +42,7 @@ This roadmap is organized into seven progressive levels:
 | 5️ | **Pushing it with Projects** | Build comprehensive ML projects |
 | 6️ | **Senior / Expert-Level ML Engineering** 🆕 | Production systems, MLOps, cloud, system design |
 | 7️ | **Emerging & Frontier Topics** 🆕 | LLMs, Agents, LLMOps, Responsible AI |
+| 🎯 | **Interview Preparation** 🆕 | Turn the roadmap into offers: coding rounds, ML theory, system design, behavioral |
 
 ---
 
@@ -876,6 +878,26 @@ Key interview focus areas in 2026:
 
 ---
 
+## 🎯 Interview Preparation
+
+> Levels 1–5 teach you machine learning; this section closes the loop — **getting selected**. It maps every round you'll actually face in 2026 hiring loops (screening, coding, ML theory, system design, behavioral) and gives you executed, verifiable answers for each. Every notebook runs top-to-bottom with zero errors on a pinned modern stack, and every number you'd quote in an interview is a number the notebooks actually printed.
+
+**The section at a glance** — [full guide here](6.%20Interview%20Preparation/README.md):
+
+| Folder | What's inside |
+| --- | --- |
+| [1. Fundamentals Review](6.%20Interview%20Preparation/1.%20Fundamentals%20Review/) | Statistics & probability + linear algebra, executed — the brainteasers included |
+| [2. Coding Rounds](6.%20Interview%20Preparation/2.%20Coding%20Rounds/) | Python's 20 patterns, the trap questions, pandas/NumPy/SQL drills (incl. window functions), ML-from-scratch validated against sklearn, take-home rubric |
+| [3. Machine Learning Interviews](6.%20Interview%20Preparation/3.%20Machine%20Learning%20Interviews/) | Core concepts, supervised/trees/unsupervised theory, evaluation, regularization, gradient descent implemented, feature engineering, A/B testing & causal inference |
+| [4. Deep Learning and Domains](6.%20Interview%20Preparation/4.%20Deep%20Learning%20and%20Domains/) | DL with a NumPy neural net (gradients verified to 1e-7), NLP/LLM questions, time series |
+| [5. System Design](6.%20Interview%20Preparation/5.%20System%20Design/) | The 6-step frame + 3 full designs (fraud, recsys, churn) + LLM/RAG design with capacity math |
+| [6. The Final Push](6.%20Interview%20Preparation/6.%20The%20Final%20Push/) | 15 STAR stories, resume formula, project 5-why drill, 3 timed mock loops, final-week plan, offer negotiation scripts |
+| [7. Question Banks and Cheat Sheets](6.%20Interview%20Preparation/7.%20Question%20Banks%20and%20Cheat%20Sheets/) | 192-question index by round & difficulty + 12 one-page cheat sheets |
+
+**Start here:** the [Question Bank Index](6.%20Interview%20Preparation/7.%20Question%20Banks%20and%20Cheat%20Sheets/Question%20Bank%20Index.md) as a Day-0 diagnostic — every question you miss maps to the notebook that fixes it.
+
+---
+
 ## Top Resources
 
 <details>
@@ -899,6 +921,7 @@ Key interview focus areas in 2026:
 | **October 2026 Refresh** | Corrected the cloud platform table, updated frontier & open-weight model references (GPT-6, Claude 5.5, Gemini 4, Llama 4, gpt-oss, Muse Spark Open), refreshed AWS certification guidance after the ML Specialty retirement (March 2026), added Microsoft Agent Framework, and tightened the EU AI Act timeline | Keeps the roadmap accurate as the 2026 AI ecosystem moves. |
 | **Structure Pass (October 2026)** | Flattened 11 redundant Level 3 nestings; fixed folder typos ("Data Acquistion", "Handing Time and Date", "Advance Topics") and stray-space filenames; unified folder/file naming to Title Case; linked the Top Resources folder into the README; closed every Level 4 "Coming Soon" gap (Association Rules, Anomaly Detection, NLP); added the Level 5 end-to-end capstone project | Expert-level repo hygiene: a consistent, typo-free, fully navigable structure — every move a git rename, so file history is preserved. |
 | **Depth Pass (October 2026)** | Converted the 5 raw-HTML notes (Linear Algebra, Calculus, AdaBoost, Decision Tree, Logistic Regression) to native Jupyter cells with executed code and removed-API fixes (`base_estimator`→`estimator`, `multi_class` removed); restructured 45 single-cell text walls into properly sectioned notebooks (wording verbatim); rebuilt Data Leakage, Cross Validation, and ML Metrics as executed-notebooks where every claim is a measured result (target leakage: 15 AUC points of illusion; feature-selection leak: 12 points; accuracy paradox: a real model ties a do-nothing baseline at 0.99; ROC-AUC 0.76 vs PR-AUC 0.05 on 1% positives); added the second Level 5 capstone — End-to-End Regression Project (California Housing, RMSE $46,985 vs $117,312 naive, error analysis by segment, offline dataset shipped) | A learning resource earns trust the same way a production system does: every number is an actual executed output, every code example runs, and every failure mode is demonstrated, not just described. |
+| **Interview Preparation Section (November 2026)** | Added a complete interview-preparation track: 27 executed notebooks and guides across 7 folders — fundamentals review (statistics/probability, linear algebra), coding rounds (Python's 20 patterns, trap questions, pandas/NumPy/SQL incl. window functions, ML-from-scratch validated against sklearn, take-home rubric), ML theory (9 notebooks from core concepts through A/B testing and causal inference), DL/NLP/time series, ML + LLM/RAG system design with capacity math, and the Final Push (15 STAR stories, resume formula, project 5-why drill, 3 timed mock loops, final-week plan, negotiation scripts) — plus a 192-question bank and 12 one-page cheat sheets | The roadmap taught ML; this closes the loop to getting selected. Every notebook executes with zero errors, every answer is calibrated to senior-bar precision, and every demo (leakage illusions, GIL timing, double descent, backprop verified by finite differences) is a measured result. |
 
 > As AI becomes more capable, human skills become your competitive advantage. The code you write is important, but the problem you solve is vital. In 2026, the best ML Engineers will actually be Product Engineers who use AI.
 
